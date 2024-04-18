@@ -12,6 +12,11 @@ The position paper [Advancing Social Intelligence in AI Agents: Technical Challe
 
 <p align="center">
   <img src="challenges.png" style="width: 60%;">
+
+  <em>(A) Four core technical challenges in Social-AI research, illustrated in an example context of a Social-AI
+agent observing and learning from a human-human interaction. (B) Social contexts in which Social-AI agents can
+be situated, with interactions spanning social units, interaction structures, and timescales. Interactions can span
+social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles.</em>
 </p>
 
 
@@ -75,9 +80,7 @@ The position paper [Advancing Social Intelligence in AI Agents: Technical Challe
 
 ### Social Intelligence Competencies
 
-**Social Perception, Knowledge, Memory, Reasoning, Creativity (Theory-of-Mind), Interaction**
-
-We consider these 6 competencies to be core competencies of social intelligence, per perspectuves such as [Weis and Süß 2005](https://books.google.com/books?hl=en&lr=&id=iJibEAAAQBAJ&oi=fnd&pg=PA203&dq=Social+intelligence–a+review+and+critical+discussion+of+mea-+surement+concepts&ots=5Z-v4dX9md&sig=rmwUlZAY5P0vUCUhgHZ87doi3yA#v=onepage&q=Social%20intelligence–a%20review%20and%20critical%20discussion%20of%20mea-%20surement%20concepts&f=false), [Weis 2008](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a34ce5d809e7858130961f64a957060a80423749), [Conzelmann, Weis, and Süß 2013](https://econtent.hogrefe.com/doi/abs/10.1027/1614-0001/a000106?journalCode=jid), and additional readings on social interaction. The study and identification of social intelligence competencies is an ongoing research area across cognitive science, psychology, and neuroscience. We will continually update this repository with new findings, and please feel free to add any additional resources below.
+We consider the following 6 competencies to be core competencies of social intelligence: **Social Perception, Knowledge, Memory, Reasoning, Creativity (Theory-of-Mind), Interaction**. This perspective is informed by social intelligence research, such as perspectives from [Weis and Süß 2005](https://books.google.com/books?hl=en&lr=&id=iJibEAAAQBAJ&oi=fnd&pg=PA203&dq=Social+intelligence–a+review+and+critical+discussion+of+mea-+surement+concepts&ots=5Z-v4dX9md&sig=rmwUlZAY5P0vUCUhgHZ87doi3yA#v=onepage&q=Social%20intelligence–a%20review%20and%20critical%20discussion%20of%20mea-%20surement%20concepts&f=false), [Weis 2008](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a34ce5d809e7858130961f64a957060a80423749), [Conzelmann, Weis, and Süß 2013](https://econtent.hogrefe.com/doi/abs/10.1027/1614-0001/a000106?journalCode=jid), and additional readings on social [interaction](https://books.google.com/books?hl=en&lr=&id=bjkTxML-wpEC&oi=fnd&pg=PA3&dq=Handbook+of+Symbolic+Interactionism+%222003%22+%22mccall%22&ots=01b92DQaDg&sig=EbDP7BMlpEsGElM8D1BuLpKdPnM#v=onepage&q=Handbook%20of%20Symbolic%20Interactionism%20%222003%22%20%22mccall%22&f=false), among others. The study and identification of social intelligence competencies is an ongoing research area across cognitive science, psychology, and neuroscience. We will continually update this repository with new findings, and please feel free to add any additional resources below.
 
 [Thinking about Ourselves and Others: Self-monitoring and Social Knowledge](https://psycnet.apa.org/record/1981-23734-001), Journal of Personality and Social Psychology, 1980
 
@@ -115,6 +118,10 @@ We consider these 6 competencies to be core competencies of social intelligence,
 
 
 ## Dimensions of Social Context
+Social-AI agents can be situated within interactions spanning social units, interaction structures, and timescales. Interactions can span social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles. 
+
+
+
 
 
 
