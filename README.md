@@ -1,9 +1,10 @@
 # social-ai
 This is a repository of papers, resources, courses, and dissertations related to the multimodal and multidisciplinary goal of advancing socially-intelligent AI (Social-AI) agents. 
 
-By [Leena Mathur](https://l-mathur.github.io), [Paul Liang](https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [MultiComp Lab](http://multicomp.cs.cmu.edu), [Language Technologies Institute](https://www.lti.cs.cmu.edu), and [Machine Learning Department](https://www.ml.cmu.edu) at CMU's [School of Computer Science](https://www.cs.cmu.edu).  
+By [Leena Mathur](https://l-mathur.github.io) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) at CMU's [School of Computer Science](https://www.cs.cmu.edu).  
 
-&#x1f4e3; If there are any topics, papers, datasets, courses, or dissertations you would like added, please feel free to make a pull request or email lmathur@andrew.cmu.edu. We welcome all contributions! 
+&#x1f4e3; If there are any topics, papers, datasets, courses, or dissertations you would like added, please feel free to make a pull request or email lmathur@andrew.cmu.edu. All contributions are welcome! 
+
 
 # Social-AI Position Paper
 
@@ -48,6 +49,12 @@ social settings, degrees of agent embodiment, and social attributes of humans, w
 [The Construction of Social Reality](https://books.google.co.in/books?hl=en&lr=&id=zrLQwJCcoOsC&oi=fnd&pg=PR9&dq=+%22searle%22%22The+construction+of+social+reality%22&ots=1tfnSn_xwS&sig=EtU76LM_WRJ-23yLPwiC_70l5O4#v=onepage&q=%22searle%22%22The%20construction%20of%20social%20reality%22&f=false), 1995
 
 [Social Ontology and the Philosophy of Society](https://www.degruyter.com/document/doi/10.1515/auk-1998-0201/html), Analyse & Kritik, 1998
+
+[The Evolutionary Emergence of Language: Social Function and the Origins of Linguistic Form](https://books.google.com/books?hl=en&lr=&id=2dtOaRpJ5sAC&oi=fnd&pg=PR9&dq=The+evolutionary+emergence+of+lan-+guage:+social+function+and+the+origins+of+linguistic+form&ots=JBu-6dQueI&sig=sxOQZa5qSfWqKbCbMJtRVDKEMnE#v=onepage&q=The%20evolutionary%20emergence%20of%20lan-%20guage%3A%20social%20function%20and%20the%20origins%20of%20linguistic%20form&f=false), 2000
+
+[Introduction. Social Intelligence: From Brain to Culture](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2006.2022), Philosophical Transactions of the Royal Society, 2007
+
+[Social Intelligence, Human Intelligence and Niche Construction](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2006.2006?casa_token=Ng2DYSnkx-4AAAAA:aSuSwBojomKvlqk41HXC7HvKFn-TI3jCurYHg3YuS9o900OpciyUhEDAo7YVa-gtkOWvkqtPx7tLp3g), Philosophical Transactions of the Royal Society, 2007
 
 [Making the Social World: The Structure of Human Civilization](https://books.google.co.in/books?hl=en&lr=&id=kz6R0eDZ5OEC&oi=fnd&pg=PT6&dq=Making+the+social+world:+The+struc-+ture+of+human+civilization&ots=AN5AhPIMQv&sig=ldXl1Ob-jw-j5te9o7jCxWMim9U#v=onepage&q=Making%20the%20social%20world%3A%20The%20struc-%20ture%20of%20human%20civilization&f=false), 2010
 
@@ -129,6 +136,8 @@ We consider the following 6 competencies to be core competencies of social intel
 [Can Social Interaction Constitute Social Cognition?](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(10)00146-4), Trends in Cognitive Science, 2010
 
 
+
+
 ## Dimensions of Social Context, Additional Concepts, and Frameworks
 Social-AI agents can be situated within interactions spanning social units, interaction structures, and timescales. Interactions can span social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles. 
 
@@ -136,13 +145,20 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Social Identity Theory](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203873694-17/social-identity-theory-sabine-trepte),Psychology of Entertainment, 2006
 
+[Social Identity Theory](https://link.springer.com/chapter/10.1007/978-3-319-29869-6_1), 2016
+
 [Difference Matters: Communicating Social Identity](https://books.google.com/books?hl=en&lr=&id=nV2mEAAAQBAJ&oi=fnd&pg=PR1&dq=Difference+matters:+Communicating+social+identity&ots=a3BbCoQ1xU&sig=km8ZL_kQu41YwMU3UjSI7c03z9Y#v=onepage&q=Difference%20matters%3A%20Communicating%20social%20identity&f=false), 2023 
 
 [The Presentation of Self in Everyday Life](https://books.google.com/books?hl=en&lr=&id=qTJrEAAAQBAJ&oi=fnd&pg=PA27&dq=The+presentation+of+self+in+everyday+life&ots=_YunQyYK3u&sig=NzSnTkP82A_-LdsE3XGH-IwOrdk#v=onepage&q=The%20presentation%20of%20self%20in%20everyday%20life&f=false), 1959
 
+
 [Action and Embodiment within Situated Human Interaction](https://www.sciencedirect.com/science/article/pii/S037821669900096X), Journal of Pragmatics, 2000
 
 [The Role of Physical Embodiment in Human-Robot Interaction](https://ieeexplore.ieee.org/abstract/document/4107795), IEEE RO-MAN, 2006
+
+[Grounding in Communication](https://psycnet.apa.org/record/1991-98452-006), Perspectives on Socially Shared Cognition, 1991
+
+[Shared Reality: Experiencing Commonality with Others' Inner States about the World](https://journals.sagepub.com/doi/full/10.1111/j.1745-6924.2009.01161.x), Perspectives on Psychological Science, 2009
 
 [Embodiment in Socially-Interactive Robots](https://www.nowpublishers.com/article/Details/ROB-056), Foundations and Trends in Robotics, 2019
 
@@ -158,6 +174,10 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Phases, Transitions and Interruptions: Modeling Processes in Multi-party Negotiations](https://www.emerald.com/insight/content/doi/10.1108/eb022898/full/html), International Journal of Conflict Management, 2003
 
+[Social Influence Network Theory: A Sociological Examination of Small Group Dynamics](https://books.google.com/books?id=EIdN_gA3iF0C&dq=Social+influence+network+theory:+A+sociological+examination+of+small+group+dynamics&lr=&source=gbs_navlinks_s), 2011
+
+[Detecting, Measuring, and Testing Dyadic Patterns in the Actor--Partner Interdependence Model](https://www.proquest.com/openview/9ed5bb6c642f01f4a268c9bfcf1b4f9b/1?cbl=60933&pq-origsite=gscholar&parentSessionId=MMBUfyi737FZGsz7GxcMtscsd0N2JrJOZ%2BFdx0i77Bs%3D), Journal of Family Psychology, 2019
+
 [Social Moments: A Perspective on Interaction for Social Robotics](https://www.frontiersin.org/articles/10.3389/frobt.2017.00024/full), Frontiers in Robotics and AI, 2017
 
 
@@ -167,38 +187,133 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Elementary Contracts as a Pragmatic Basis of Language Interaction](https://aclanthology.org/C86-1054.pdf), COLING, 1986
 
+[Linguistic Issues in Facial Animation](https://link.springer.com/chapter/10.1007/978-4-431-66890-9_2), Computer Animation, 1991
+
 [Abductive explanation of dialogue misunderstandings](https://aclanthology.org/E93-1033.pdf), EACL, 1993
 
 [Social Interaction: Multimodal Conversation with Social Agents](https://cdn.aaai.org/AAAI/1994/AAAI94-004.pdf), AAAI, 1994
+
+[Animated Conversation: Rule-Based Generation of Facial Expression, Gesture & Spoken Intonation for Multiple Conversational Agents](https://dl.acm.org/doi/abs/10.1145/192161.192272), SIGGRAPH, 1994
+
+[Generating Facial Expressions for Speech](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2001_1), Cognitive Science, 1996
 
 [Cooperation Structures](https://research.gold.ac.uk/id/eprint/8758/1/Cooperation%20Structures.pdf), IJCAI, 1997
 
 [Modeling Social Action for AI Agents](https://www.sciencedirect.com/science/article/pii/S0004370298000563), Artificial Intelligence, 1998
 
+[A Computational Model of Social Perlocutions](https://dl.acm.org/doi/proceedings/10.5555/980691), ACL/COLING, 1998
 
+## Early Works in Multi-Agent Systems, Multi-Agent Robotics, and Social Robotics 
 
+[Multi-agent planning as a dynamic search for social consensus](https://dl.acm.org/doi/abs/10.5555/1624025.1624085), IJCAI 1993
 
+[Designing Emergent Behaviors: From Local Interactions to Collective Intelligence](https://direct.mit.edu/books/edited-volume/4775/chapter-abstract/218175/Designing-Emergent-Behaviors-From-Local?redirectedFrom=PDF), International Conference on Simulation of Adaptive Behavior: From Animals to Animats, 1993
 
+[Learning to Behave Socially](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b8be5fffbdc1e15c18eb92e032e60486d6a44812), International Conference on Simulation of Adaptive Behavior: From Animals to Animats, 1994
 
+[How to Build Robots That Make Friends and Influence People](https://www.cs.yale.edu/homes/scassellati/papers/Breazeal-Scaz-IROS99.pdf), IROS 1999
 
+[Toward Sociable Robots](https://www.sciencedirect.com/science/article/pii/S0921889002003731?casa_token=rf-Z4__7d0UAAAAA:hTLK8pW0AXs0W8C0_GUuVVgp_SgQDUEQmT_VHVwNZBI8G-4ABEdn7S_IUrjMagHTCiHjsN4pxWE), 2003
 
-## Nuanced Signals 
-[Learning the Communication of Intent Prior to Physical Collaboration](https://ieeexplore.ieee.org/abstract/document/6343875), IEEE RO-MAN, 2012
+[Designing Sociable Robots](https://books.google.com/books?hl=en&lr=&id=402dquhxSTQC&oi=fnd&pg=PR15&dq=info:mPz4JxpNcGsJ:scholar.google.com&ots=oCRlyYw5xe&sig=TCsRNnzFykgZ-J3UKkBvKoOWhiA#v=onepage&q&f=false), 2004
 
-## Multiple Perspectives 
-[Shared Reality: Experiencing Commonality with Others' Inner States about the World](https://journals.sagepub.com/doi/full/10.1111/j.1745-6924.2009.01161.x), Perspectives on Psychological Science, 2009
+## ML/Deep Learning + Probabilistic and Game Theoretic Approaches
 
+[Toward Virtual Humans]
 
+[Latent-dynamic Discriminative Models for Continuous Gesture Recognition](https://ieeexplore.ieee.org/abstract/document/4270324), CVPR, 2007
 
-## Agency and Adaptation 
+[Social Signal Processing: Survey of an emerging domain](https://www.sciencedirect.com/science/article/abs/pii/S0262885608002485), Image and Vision Computing, 2009
+
+[Improving Data Association by Joint Modeling of Pedestrian Trajectories and Groupings](https://link.springer.com/chapter/10.1007/978-3-642-15549-9_33), ECCV, 2010
+
+[Towards Multimodal Sentiment Analysis: Harvesting Opinions from the Web](https://dl.acm.org/doi/abs/10.1145/2070481.2070509?casa_token=iQnwINjokzwAAAAA:zxyZJrNEcjgLiO6Qw90QpyBPSKmG7JIFBKMA8TTbztn9Sbm1vNcjCK9XhLGMw1qdPD1LbCOk9IkbDA), ACM ICMI, 2011
+
+[AVEC 2012: The Continuous Audio/visual Emotion Challenge](https://dl.acm.org/doi/abs/10.1145/2388676.2388776?casa_token=lRk-1lAy-xUAAAAA:IG-ZQmPjcHDAUrvKRXbTjQKPHiIeIhBwZ9IP1uq84lqFRFRLncRiECj07MX2ZwYcPckpRdvpIZXDFA), ACM ICMI, 2012
+
+*Note: AVEC has occurred several times as a workshop. See more in the [workshops](#workshops-relevant-to-social-ai) section below.*
+
+[Learning the Communication of Intent Prior to Physical Collaboration](https://ieeexplore.ieee.org/abstract/document/6343875?casa_token=Z2C5_ainDS0AAAAA:uhOcYlKbwytfF5hYBuvDUM9uhIig0-MZ2GSt45ThjoU0GI2hQPqRBlFJn_T4Ft1d7BnreG_nVw), IEEE RO-MAN, 2012
+
+[Social Signal Classification Using Deep BLSTM Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/6854518?casa_token=iJqDWVfIwasAAAAA:GOvDzBcLYhOnYQPjq1w1dw9KniBFn2KoneTvsNknEwUAnbADbhY5i2ucadEqwyBnAiryCyzT5A), ICASSP 2014
+
+[The Geneva Minimalistic Acoustic Parameter Set (GeMAPS) for Voice Research and Affective Computing](https://ieeexplore.ieee.org/abstract/document/7160715), IEEE Transactions on Affective Computing, 2015
+
+[Coordinate to Cooperate or Compete: Abstract Goals and Joint Intentions in Social Interaction](https://par.nsf.gov/servlets/purl/10026426), Cognitive Science, 2016
+
+[Commonsense Interpretation of Triangle Behavior](https://ojs.aaai.org/index.php/AAAI/article/view/9881), AAAI, 2016
+
 [Active Preference-based Learning of Reward Functions](https://escholarship.org/content/qt88k894w7/qt88k894w7_noSplash_2563d21faeca7f97a4214d2a7323a5f7.pdf), RSS, 2017
+
+[Personalized Machine Learning for Robot Perception of Affect and Engagement in Autism Therapy](https://www.science.org/doi/full/10.1126/scirobotics.aao6760?casa_token=DS28C1VNacAAAAAA%3AvYWVjRfo7FxvctWbzuj7bNxPJXIHKHtB9dV-D-1PSI4AFaS8wtcLhDjSPsiFtiYhS9_1SC2TqMR4SBg), Science Robotics, 2018
+
+[Multimodal Language Analysis in the Wild: CMU-Mosei Dataset and Interpretable Dynamic Fusion Graph](https://aclanthology.org/P18-1208/), ACL, 2018
+
+[Social-bigat: Multimodal Trajectory Forecasting Using Bicycle-gan and Graph Attention Networks](https://proceedings.neurips.cc/paper_files/paper/2019/hash/d09bf41544a3365a46c9077ebb5e35c3-Abstract.html), NeurIPS, 2019
+
+[Gaitset: Regarding Gait as a Set for Cross-view Gait Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/4821), AAAI, 2019
+
+[Dialoguernn: An Attentive RNN for Emotion Detection in Conversations](https://ojs.aaai.org/index.php/AAAI/article/view/4657), AAAI, 2019
+
+[Multimodal Analysis and Estimation of Intimate Self-Disclosure](https://dl.acm.org/doi/abs/10.1145/3340555.3353737?casa_token=4jpIJT8f2KIAAAAA:K3ZZrBPQuGSLnyNc0YzCqabOn3u2hH5az98aYaXgt8hvec-5m3R3Wg1wqj1auJSTVohsLK-vrUvKFA), ACM ICMI, 2019
+
+[Social Influence as Intrinsic Motivation for Multi-agent Deep Reinforcement Learning](http://proceedings.mlr.press/v97/jaques19a.html), ICML, 2019
+
+[Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://ojs.aaai.org/index.php/AAAI/article/view/4574), AAAI, 2019
+
+[Too Many Cooks: Coordinating Multi-agent Collaboration through Inverse Planning](https://dspace.mit.edu/handle/1721.1/138369), Cognitive Science, 2020
+
+[Joint Attention for Multi-agent Coordination and Social Learning](https://arxiv.org/abs/2104.07750), ICRA Workshop on Social Intelligence in Humans and Robots, 2021
+
+[Learning To Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://openaccess.thecvf.com/content/CVPR2022/html/Ng_Learning_To_Listen_Modeling_Non-Deterministic_Dyadic_Facial_Motion_CVPR_2022_paper.html), CVPR, 2022
+
+[Gesture2path: Imitation Learning for Gesture-aware Navigation](https://arxiv.org/abs/2209.09375), arXiv, 2022
+
+[Observer-aware Legibility for Social Navigation](https://ieeexplore.ieee.org/abstract/document/9900676?casa_token=seuRnXRtQT0AAAAA:DQlfFGG8hTVlgnZ74JFY6m777aJb9NbV-V6uhPGnaf9j8IS_OQ4iQH69NCqovHMwK_RAEqrpoQ), RO-MAN, 2022
+
+[Modeling Multimodal Social Interactions: New Challenges and Baselines with Densely Aligned Representations](https://arxiv.org/abs/2403.02090),CVPR, 2024
+
+
+## Probing Social Intelligence Competencies of Language Models and Multimodal Models
+
+[Social-iq: A Question Answering Benchmark for Artificial Social Intelligence](https://openaccess.thecvf.com/content_CVPR_2019/html/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.html), CVPR, 2019
+
+[Revisiting the Evaluation of Theory of Mind through Question Answering](https://aclanthology.org/D19-1598/), EMNLP, 2019
+
+[Socialiqa: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728), EMNLP, 2019
+
+[Human-centric Dialog Training via Offline Reinforcement Learning](https://arxiv.org/abs/2010.05848), EMNLP, 2020 
+
+[A Simple Language Model for Task-oriented Dialogue](https://proceedings.neurips.cc/paper/2020/hash/e946209592563be0f01c844ab2170f0c-Abstract.html), NeurIPS, 2020
+
+[Language Model Transformers as Evaluators for Open-domain Dialogues](https://aclanthology.org/2020.coling-main.599/), COLING, 2020
+
+[Exploring RoBERTa's Theory of Mind through Textual Entailment](https://philpapers.org/rec/COHERT), 2021
+
+[Neural Theory-of-mind? On the Limits of Social Intelligence in Large LMs](https://arxiv.org/abs/2210.13312), EMNLP, 2022
 
 [Affective Behavior Learning for Social Robot Haru with Implicit Evaluative Feedback](https://ieeexplore.ieee.org/abstract/document/9981752?casa_token=LB2Oz3LRw4gAAAAA:sGoGS-6K-4lg0ZLzjyv6NatByqxgOv5CBgFW9xbfarw1SRPJzJQl3x3wIgyslQ3ePw5hvgYpdg), IROS, 2022
 
+[Social-iq 2.0 Challenge: Benchmarking Multimodal Social Understanding](https://github.com/abwilf/Social-IQ-2.0-Challenge), ICCV Challenge, 2023
 
+[The Socialai School: Insights from Developmental Psychology towards Artificial Socio-cultural Agents](https://arxiv.org/abs/2307.07871), arXiv, 2023
+
+[FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions](https://arxiv.org/abs/2310.15421), EMNLP, 2023
+
+[Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models](https://arxiv.org/abs/2305.14763), EACL, 2024
+
+[Building Cooperative Embodied Agents Modularly with Large Language Models](https://arxiv.org/abs/2307.02485), ICLR 2024
+
+[Sotopia: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667), ICLR, 2024
+
+[MMToM-QA: Multimodal Theory of Mind Question Answering](https://arxiv.org/abs/2401.08743),arXiv, 2024 
+
+[Habitat 3.0: A Co-habitat for Humans, Avatars and Robots](https://arxiv.org/abs/2310.13724), ICLR 2024
 
 
 ## Example Applications (non-exhaustive)
+
+### Health and Well-being
 
 [Human--AI collaboration Enables More Empathic Conversations in Text-based Peer-to-peer Mental Health Support](https://www.nature.com/articles/s42256-022-00593-2), Nature Machine Intelligence 2023
 
@@ -216,40 +331,90 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [A Robotic Positive Psychology Coach to Improve College Students’ Wellbeing](https://ieeexplore.ieee.org/abstract/document/9223588?casa_token=L9NgMq2nwIoAAAAA:jBy0veFKVbdCcH6iAvc5kWNq5AHHpF5UhpRVgG5ae7Zub-SWwzDm0_wQJczkrbbP3f23LYxD5w), IEEE RO-MAN, 2020
 
+### Education
+
+[A Model-free Affective Reinforcement Learning Approach to Personalization of an Autonomous Social Robot Companion for Early Literacy Education](https://ojs.aaai.org/index.php/AAAI/article/view/3846), AAAI, 2019
+
+[Lifelong Personalization for Social Robot Learning Companions: Interactive Student Modeling Across Tasks and Over Time](https://dspace.mit.edu/handle/1721.1/152010), PhD Thesis, 2022
+
+
+### Industrial 
+
 [The Social Impact of a Robot Co-worker in Industrial Setting](https://dl.acm.org/doi/10.1145/2702123.2702181), CHI, 2015
 
 
 # Core Technical Challenges in Social-AI
 
-## Ambiguity in Constructs
+**C1: Ambiguity in Constructs**
+*Social constructs have inherent ambiguity in their definition and interpretation in the social world.*
 
-## Nuanced Signals 
+**C2: Nuanced Signals** 
 
-## Multiple Perspectives 
 
-## Agency and Adaptation
+**C3: Multiple Perspectives** 
 
-# Ethics and Safety 
+
+
+**C4: Agency and Adaptation** 
+
+
+
+
+
+# Ethics, Safety, and Participatory Social-AI
+
+[Machines and Mindlessness: Social Responses to Computers](https://spssi.onlinelibrary.wiley.com/doi/full/10.1111/0022-4537.00153), Journal of Social Issues, 2000
+
+[Beyond Dirty, Dangerous and Dull: What Everyday People Think Robots Should Do](https://dl.acm.org/doi/abs/10.1145/1349822.1349827), HRI, 2008
 
 [Averting robot eyes](https://heinonline.org/HOL/Page?handle=hein.journals/mllr76&div=39&g_sent=1&casa_token=&collection=journals), Maryland Law Review, 2016
 
-[Federated Continual Learning for Socially Aware Robotics](https://arxiv.org/abs/2201.05527)
+[Social Bias Frames: Reasoning about Social and Power Implications of Language](https://arxiv.org/abs/1911.03891), ACL, 2020
+
+[Towards Transparency by Design for Artificial Intelligence](https://link.springer.com/article/10.1007/s11948-020-00276-4), Science and Engineering Ethics, 2020
+
+[Towards Understanding and Mitigating Social Biases in Language Models](http://proceedings.mlr.press/v139/liang21a.html), ICML, 2021
+
+[Few-shot Instruction Prompts for Pretrained Language Models to Detect Social Biases](https://arxiv.org/abs/2112.07868), arXiv, 2021
+
+[Envisioning Communities: A Participatory Approach towards AI for Social Good](https://dl.acm.org/doi/abs/10.1145/3461702.3462612), AIES, 2021
+
+[Unmasking the Mask--Evaluating Social Biases in Masked Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/21453), AAAI, 2022
+
+[Power to the People? Opportunities and Challenges for Participatory AI](https://dl.acm.org/doi/abs/10.1145/3551624.3555290), EAAMO, 2022
+
+[Deliberating with AI: Improving Decision-Making for the Future through Participatory AI Design and Stakeholder Deliberation](https://arxiv.org/abs/2302.11623), CSCW, 2023
+
+[Stable Bias: Evaluating Societal Representations in Diffusion Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b01153e7112b347d8ed54f317840d8af-Abstract-Datasets_and_Benchmarks.html), NeurIPS, 2023
+
+[Survey of Social Bias in Vision-Language Models](https://arxiv.org/abs/2309.14381), arXiv, 2023
+
+[Dall-eval: Probing the Reasoning Skills and Social Biases of Text-to-image Generation Models](https://openaccess.thecvf.com/content/ICCV2023/html/Cho_DALL-Eval_Probing_the_Reasoning_Skills_and_Social_Biases_of_Text-to-Image_ICCV_2023_paper.html), ICCV, 2023
+
+[Never Trust Anything That Can Think for Itself, if You Can’t Control Its Privacy Settings: The Influence of a Robot’s Privacy Settings on Users’ Attitudes and Willingness to Self-disclose](https://link.springer.com/article/10.1007/s12369-023-01043-8), International Journal of Social Robotics, 2023
+
+[Using Design Metaphors to Understand User Expectations of Socially Interactive Robot Embodiments](https://arxiv.org/abs/2201.10671), ACM Transactions on Human-Robot Interation, 2023
+
+[Federated Continual Learning for Socially Aware Robotics](https://arxiv.org/abs/2201.05527), IEEE RO-MAN, 2023
 
 # Benchmarks
 
-| Dataset | Domain | Paper | Data|
+| Dataset | Modality and/or Domain | Paper | Data/Code |
 |:-----------|:----------------------------|:------------:|:------------:|
 |`Social-IQ`| multimodal video qa | [CVPR 2019 paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) | [data + code](https://github.com/A2Zadeh/Social-IQ)
 |`Social-IQ 2.0`| multimodal video qa | [ICCV 2023 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/) | [data + code](https://github.com/abwilf/Social-IQ-2.0-Challenge)
 |`Social-IQa`| text qa | [EMNLP 2019 paper](https://arxiv.org/pdf/1904.09728.pdf) | [data + code](https://github.com/google/BIG-bench/blob/main/bigbench/benchmark_tasks/social_iqa/README.md)
 |`CMU-MOSEI`| multimodal sentiment and emotion intensity | [ACL 2018 paper](https://aclanthology.org/P18-1208.pdf) | [data + code](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 | `IEMOCAP` | multimodal emotional dyadic motion capture | [LREC 2008 paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | [data](https://sail.usc.edu/software/databases/) 
+| `GENEA` | virtual agent gesture generation | [ICMI 2023 paper](https://dl.acm.org/doi/abs/10.1145/3577190.3616120) | [website](https://svito-zar.github.io/GENEAchallenge2023/)
+| `SocNavBench` | robot social navigation simulation | [THRI 2022 paper](https://dl.acm.org/doi/full/10.1145/3476413) | [website](https://github.com/CMU-TBD/SocNavBench)
+| `Habitat 3.0` | simulated human-robot social navigation and object rearrangement | [ICLR 2024 paper](https://arxiv.org/abs/2310.13724) | [website](https://aihabitat.org/habitat3/)
 
 
 
 
 # CMU Artificial Social Intelligence Course
-CMU also offers a new course [11:866: Artificial Social Intelligence](https://cmu-multicomp-lab.github.io/asi-course/spring2023/), most recently taught in Spring 2023. There are publicly-available [summaries](https://cmu-multicomp-lab.github.io/asi-course/spring2023/schedule/) from class discussions and reading lists for anyone interested in Social-AI topics. 
+CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-multicomp-lab.github.io/asi-course/spring2023/), most recently taught in Spring 2023. There are publicly-available [summaries](https://cmu-multicomp-lab.github.io/asi-course/spring2023/schedule/) from class discussions and reading lists for anyone interested in Social-AI topics. 
 
 # Additional Courses Relevant to Social-AI
 
@@ -260,15 +425,30 @@ CMU also offers a new course [11:866: Artificial Social Intelligence](https://cm
 
 # Dissertations Relevant to Social-AI
 
-[Communication Beyond Words: Grounding Visual Body Motion with Language](https://lti.cs.cmu.edu/sites/default/files/ahuja%2C%20chaitanya%20-%20Thesis.pdf), 2022, [Chaitanya Ahuja](https://chahuja.com)
+[Interaction and Intelligent Behavior](https://dspace.mit.edu/handle/1721.1/12012), 1994, [Maja J Matarić](https://maja-mataric.web.app)
 
-[Towards Human-Centered Optimality Criteria](https://dspace.mit.edu/bitstream/handle/1721.1/140992/ghandeharioun-asma_gh-phd-MAS-2021-thesis.pdf?sequence=1&isAllowed=y), 2021, Asma Ghandeharioun
+[Sociable Machines: Expressive Social Exchange Between Humans and Robots](https://groups.csail.mit.edu/lbr/hrg/2000/phd.pdf), 2000, [Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/)
+
+[Foundations for a Theory of Mind for a Humanoid Robot](https://scazlab.yale.edu/sites/default/files/files/scassellati-phd.pdf), 2001, [Brian Scassellati](https://scazlab.yale.edu/people/brian-scassellati)
+
+[Context-Based Visual Feedback Recognition](https://dspace.mit.edu/handle/1721.1/34893), 2006, [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
+
+[Measuring college students' sleep, stress, mental health and wellbeing with wearable sensors and mobile phones](https://dspace.mit.edu/handle/1721.1/106066), 2016, [Akane Sano](https://profiles.rice.edu/faculty/akane-sano)
+
+[Nonverbal Communication in Socially Assistive Human-Robot Interaction](https://scazlab.yale.edu/sites/default/files/files/admoni_thesis.pdf), [Henny Admoni](https://hennyadmoni.com)
+
+[A Bayesian Theory of Mind Approach to Nonverbal Communication for Human-Robot Interactions](https://www.media.mit.edu/publications/jinjoolee-phd-2017/), 2017, [Jin Joo Lee](https://www.media.mit.edu/people/jinjoo/overview/)
 
 [Social and Affective Machine Learning](https://www.media.mit.edu/publications/social-and-affective-machine-learning/), 2019, [Natasha Jaques](https://natashajaques.ai) 
 
-[A Bayesian Theory of Mind Approach to Nonverbal Communication for Human-Robot Interactions](https://www.media.mit.edu/publications/jinjoolee-phd-2017/), 2017, Jin Joo Lee
+[Positive AI with Social Commonsense Models](https://maartensap.com/pdfs/sap2021positiveAIwithSocialCommonsenseModels.pdf), 2021, [Maarten Sap](http://maartensap.com)
 
-[Measuring college students' sleep, stress, mental health and wellbeing with wearable sensors and mobile phones](https://dspace.mit.edu/handle/1721.1/106066), 2016, Akane Sano
+[Towards Human-Centered Optimality Criteria](https://dspace.mit.edu/bitstream/handle/1721.1/140992/ghandeharioun-asma_gh-phd-MAS-2021-thesis.pdf?sequence=1&isAllowed=y), 2021, [Asma Ghandeharioun](https://asmadotgh.github.io)
+
+[Lifelong Personalization for Social Robot Learning Companions: Interactive Student Modeling Across Tasks and Over Time](https://dspace.mit.edu/handle/1721.1/152010), 2022, [Sam Spaulding](https://www.samspaulding.com)
+
+[Communication Beyond Words: Grounding Visual Body Motion with Language](https://lti.cs.cmu.edu/sites/default/files/ahuja%2C%20chaitanya%20-%20Thesis.pdf), 2022, [Chaitanya Ahuja](https://chahuja.com)
+
 
 
 
