@@ -115,7 +115,7 @@ social settings, degrees of agent embodiment, and social attributes of humans, w
 
 ### Social Intelligence Competencies
 
-We consider the following 6 competencies to be core competencies of social intelligence: **Social Perception, Knowledge, Memory, Reasoning, Creativity (Theory-of-Mind), Interaction**. This perspective is informed by research from [Weis and Süß 2005](https://books.google.com/books?hl=en&lr=&id=iJibEAAAQBAJ&oi=fnd&pg=PA203&dq=Social+intelligence–a+review+and+critical+discussion+of+mea-+surement+concepts&ots=5Z-v4dX9md&sig=rmwUlZAY5P0vUCUhgHZ87doi3yA#v=onepage&q=Social%20intelligence–a%20review%20and%20critical%20discussion%20of%20mea-%20surement%20concepts&f=false), [Weis 2008](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a34ce5d809e7858130961f64a957060a80423749), [Conzelmann, Weis, and Süß 2013](https://econtent.hogrefe.com/doi/abs/10.1027/1614-0001/a000106?journalCode=jid), and additional readings on social [interaction](https://books.google.com/books?hl=en&lr=&id=bjkTxML-wpEC&oi=fnd&pg=PA3&dq=Handbook+of+Symbolic+Interactionism+%222003%22+%22mccall%22&ots=01b92DQaDg&sig=EbDP7BMlpEsGElM8D1BuLpKdPnM#v=onepage&q=Handbook%20of%20Symbolic%20Interactionism%20%222003%22%20%22mccall%22&f=false), among others. 
+We consider the following 6 competencies to be core competencies of social intelligence: **Social Perception, Knowledge, Memory, Reasoning, Creativity (Theory-of-Mind), Interaction**. This perspective is informed by readings from cognitive science, psychology, and neuroscience.
 
 #### Social Perception
 
