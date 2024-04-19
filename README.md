@@ -245,7 +245,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Designing Sociable Robots](https://books.google.com/books?hl=en&lr=&id=402dquhxSTQC&oi=fnd&pg=PR15&dq=info:mPz4JxpNcGsJ:scholar.google.com&ots=oCRlyYw5xe&sig=TCsRNnzFykgZ-J3UKkBvKoOWhiA#v=onepage&q&f=false), 2004
 
-## ML/Deep Learning + Probabilistic and Game Theoretic Approaches
+## ML, Deep Learning , Probabilistic and Game Theoretic Approaches
 
 [Toward Virtual Humans]
 
@@ -302,7 +302,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 [Modeling Multimodal Social Interactions: New Challenges and Baselines with Densely Aligned Representations](https://arxiv.org/abs/2403.02090),CVPR, 2024
 
 
-## Probing Social Intelligence Competencies of Language Models and Multimodal Models
+## Probing Social Intelligence Competencies of Models
 
 [Social-iq: A Question Answering Benchmark for Artificial Social Intelligence](https://openaccess.thecvf.com/content_CVPR_2019/html/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.html), CVPR, 2019
 
@@ -339,7 +339,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 [Habitat 3.0: A Co-habitat for Humans, Avatars and Robots](https://arxiv.org/abs/2310.13724), ICLR 2024
 
 
-## Example Applications (non-exhaustive)
+## Example Applications
 
 ### Health and Well-being
 
