@@ -10,6 +10,16 @@ By [Leena Mathur](https://l-mathur.github.io) from the [Language Technologies In
 
 The position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](link) discusses core technical challenges, opportunities, and open questions towards building socially-intelligent AI (Social-AI) agents. Our paper is anchored in social intelligence concepts and progress in Social-AI across 6 computing communities: natural language processing, machine learning, computer vision, robotics, human-machine interaction (including human-computer interaction and human-robot interaction), and speech. This repository of resources will be continually updated with additional community resources. 
 
+Social-AI research interest has accelerated across computing communities in recent years:
+
+<p align="center">
+  <img src="cumulative.png" style="width: 60%;">
+
+  <em>Cumulative number of Social-AI papers over time, based on the 3,257 papers from our Semantic Scholar Social-AI queries. Interest in Social-AI research has been accelerating across computing communities.</em>
+</p>
+
+We believe there are core technical challenges that must be addressed to advance the multidisciplinary, multimodal goal of building Social-AI. Our position paper is driven by the following question: What are core technical challenges, open questions, and opportunities for researchers to advance Social-AI?
+
 
 <p align="center">
   <img src="challenges.png" style="width: 60%;">
@@ -19,6 +29,23 @@ agent observing and learning from a human-human interaction. (B) Social contexts
 be situated, with interactions spanning social units, interaction structures, and timescales. Interactions can span
 social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles.</em>
 </p>
+
+**C1: Ambiguity in Constructs**
+
+*Social constructs have inherent ambiguity in their definition and interpretation in the social world.* Opportunities and open questions to address this challenge are discussed in Section 4.1 of the paper.
+
+**C2: Nuanced Signals** 
+
+*Social constructs are expressed through behaviors and signals that can be nuanced, often manifesting through different degrees of synchrony across actors and modalities. During interactions, small changes in social signals can lead to large shifts in social meaning being conveyed.* Opportunities and open questions to address this challenge are discussed in Section 4.2 of the paper.
+
+**C3: Multiple Perspectives** 
+
+*In social interactions, actors bring their own perspectives, experiences, and roles; these factors can change over time and influence the perspectives of other actors during interactions.* Opportunities and open questions to address this challenge are discussed in Section 4.3 of the paper.
+
+**C4: Agency and Adaptation**
+
+*Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.* Opportunities and open questions to address this challenge are discussed in Section 4.4 of the paper.
+
 
 
 # Table of Contents
@@ -341,23 +368,6 @@ Social-AI agents can be situated within interactions spanning social units, inte
 ### Industrial 
 
 [The Social Impact of a Robot Co-worker in Industrial Setting](https://dl.acm.org/doi/10.1145/2702123.2702181), CHI, 2015
-
-
-# Core Technical Challenges in Social-AI
-
-**C1: Ambiguity in Constructs**
-*Social constructs have inherent ambiguity in their definition and interpretation in the social world.*
-
-**C2: Nuanced Signals** 
-
-
-**C3: Multiple Perspectives** 
-
-
-
-**C4: Agency and Adaptation** 
-
-
 
 
 
