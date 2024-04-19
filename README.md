@@ -245,9 +245,9 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Designing Sociable Robots](https://books.google.com/books?hl=en&lr=&id=402dquhxSTQC&oi=fnd&pg=PR15&dq=info:mPz4JxpNcGsJ:scholar.google.com&ots=oCRlyYw5xe&sig=TCsRNnzFykgZ-J3UKkBvKoOWhiA#v=onepage&q&f=false), 2004
 
-## ML, Deep Learning , Probabilistic and Game Theoretic Approaches
+## ML, Deep Learning, Probabilistic and Game Theoretic Approaches
 
-[Toward Virtual Humans]
+[Toward Virtual Humans](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1883), AI Magazine, 2006
 
 [Latent-dynamic Discriminative Models for Continuous Gesture Recognition](https://ieeexplore.ieee.org/abstract/document/4270324), CVPR, 2007
 
