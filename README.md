@@ -437,6 +437,8 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 
 # Dissertations Relevant to Social-AI
 
+[Communication and Coarticulation in Facial Animation](https://www.proquest.com/docview/303942617?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses), 1991, [Catherine Pelachaud](https://scholar.google.com/citations?user=n9ZNrsEAAAAJ&hl=en)
+
 [Interaction and Intelligent Behavior](https://dspace.mit.edu/handle/1721.1/12012), 1994, [Maja J Matarić](https://maja-mataric.web.app)
 
 [Sociable Machines: Expressive Social Exchange Between Humans and Robots](https://groups.csail.mit.edu/lbr/hrg/2000/phd.pdf), 2000, [Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/)
@@ -444,6 +446,8 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 [Foundations for a Theory of Mind for a Humanoid Robot](https://scazlab.yale.edu/sites/default/files/files/scassellati-phd.pdf), 2001, [Brian Scassellati](https://scazlab.yale.edu/people/brian-scassellati)
 
 [Context-Based Visual Feedback Recognition](https://dspace.mit.edu/handle/1721.1/34893), 2006, [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
+
+[Implicit and Automated Emotional Tagging of Videos](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ab8fb278db4405f7db08fa59404d9dd22d38bc83), 2011, [Mohammad Soleymani](https://people.ict.usc.edu/~soleymani/)
 
 [Measuring college students' sleep, stress, mental health and wellbeing with wearable sensors and mobile phones](https://dspace.mit.edu/handle/1721.1/106066), 2016, [Akane Sano](https://profiles.rice.edu/faculty/akane-sano)
 
