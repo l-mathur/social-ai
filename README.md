@@ -231,7 +231,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [A Computational Model of Social Perlocutions](https://dl.acm.org/doi/proceedings/10.5555/980691), ACL/COLING, 1998
 
-## Early Works in Multi-Agent Systems, Multi-Agent Robotics, and Social Robotics 
+## Early Works in Multi-Agent Social Intelligence and Social Robotics 
 
 [Multi-agent planning as a dynamic search for social consensus](https://dl.acm.org/doi/abs/10.5555/1624025.1624085), IJCAI 1993
 
