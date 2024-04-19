@@ -341,6 +341,8 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 ## Example Applications
 
+This section includes representative works and will be continually updated.
+
 ### Health and Well-being
 
 [Human--AI collaboration Enables More Empathic Conversations in Text-based Peer-to-peer Mental Health Support](https://www.nature.com/articles/s42256-022-00593-2), Nature Machine Intelligence 2023
