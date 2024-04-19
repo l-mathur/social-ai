@@ -1,6 +1,8 @@
 # social-ai
 
-By [Leena Mathur](https://l-mathur.github.io) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) at CMU's [School of Computer Science](https://www.cs.cmu.edu). This repository contains resources related to the multimodal and multidisciplinary goal of advancing socially-intelligent AI (Social-AI) agents. If there are any topics, papers, books, benchmarks, courses, or dissertations you would like added, please feel free to make a pull request or email lmathur@andrew.cmu.edu. All suggestions or contributions are welcome! 
+By [Leena Mathur](https://l-mathur.github.io) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) at CMU's [School of Computer Science](https://www.cs.cmu.edu). T
+
+his repository contains resources related to advancing socially-intelligent AI (Social-AI) agents. If there are any topics, papers, books, benchmarks, courses, or dissertations you would like added, please feel free to make a pull request or email lmathur@andrew.cmu.edu. All suggestions or contributions are welcome! 
 
  This repository accompanies the position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) by [Leena Mathur](https://l-mathur.github.io/), [Paul Liang](https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) and [Machine Learning Department](https://www.ml.cmu.edu/) at CMU.
 
