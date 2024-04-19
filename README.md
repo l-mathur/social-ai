@@ -1,13 +1,13 @@
 # social-ai
 
-By [Leena Mathur](https://l-mathur.github.io) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) at CMU's [School of Computer Science](https://www.cs.cmu.edu). If there are any topics, papers, books, datasets, courses, or dissertations you would like added, please feel free to make a pull request or email lmathur@andrew.cmu.edu. All suggestions or contributions are welcome! 
+By [Leena Mathur](https://l-mathur.github.io) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) at CMU's [School of Computer Science](https://www.cs.cmu.edu). This is a repository of resources related to the multimodal and multidisciplinary goal of advancing socially-intelligent AI (Social-AI) agents. If there are any topics, papers, books, datasets/benchmarks, courses, or dissertations you would like added, please feel free to make a pull request or email lmathur@andrew.cmu.edu. All suggestions or contributions are welcome! 
 
-This is a repository of papers, books, courses, benchmarks/challenges, and dissertations related to the multimodal and multidisciplinary goal of advancing socially-intelligent AI (Social-AI) agents. This repository accompanies the position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023).
+ This repository accompanies the position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) by [Leena Mathur](https://l-mathur.github.io/), Paul Liang(https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) and [Machine Learning Department](https://www.ml.cmu.edu/) at CMU.
 
 
 # Social-AI Position Paper
 
-The position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) discusses a set of core technical challenges, along with opportunities and open questions, towards advancing socially-intelligent AI (Social-AI) agents situated in diverse social contexts. Our paper is anchored in social intelligence concepts and progress in Social-AI across 6 computing communities: natural language processing, machine learning, computer vision, robotics, human-machine interaction (including human-computer interaction and human-robot interaction), and speech. Social-AI research interest has accelerated across computing communities in recent years:
+[Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) discusses core technical challenges, along with opportunities and open questions, towards advancing socially-intelligent AI (Social-AI) agents that can be situated in diverse social contexts. Our paper is anchored in social intelligence concepts and progress in Social-AI across 6 computing communities: natural language processing, machine learning, computer vision, robotics, human-machine interaction (including human-computer interaction and human-robot interaction), and speech. Social-AI research interest has accelerated across computing communities in recent years:
 
 <p align="center">
   <img src="cumulative.png" style="width: 60%;">
@@ -15,7 +15,7 @@ The position paper [Advancing Social Intelligence in AI Agents: Technical Challe
   <em>Cumulative number of Social-AI papers over time, based on the 3,257 papers from our Semantic Scholar Social-AI queries. Interest in Social-AI research has been accelerating across computing communities.</em>
 </p>
 
-We believe there are core technical challenges that must be addressed to advance Social-AI, relevant to Social-AI research across the landscape of social contexts:
+We believe there are core technical challenges that must be addressed to advance social intelligence in AI agents, relevant to agents situated across the landscape of possible social contexts:
 
 <p align="center">
   <img src="challenges.png" style="width: 60%;">
@@ -43,14 +43,13 @@ social settings, degrees of agent embodiment, and social attributes of humans, w
 *Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.* Opportunities and open questions to address this challenge are discussed in Section 4.4 of the paper.
 
 
-
 # Table of Contents
 
 [Social Intelligence Foundations](#social-intelligence-foundations)
 
 [Social-AI Research](#social-ai-research)
 
-[Ethics and Safety](#ethics-and-safety)
+[Ethics, Safety, and Participatory Social-AI](#ethics-safety-and-participatory-social-ai)
 
 [Benchmarks](#benchmarks)
 
