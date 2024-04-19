@@ -28,19 +28,19 @@ social settings, degrees of agent embodiment, and social attributes of humans, w
 
 **C1: Ambiguity in Constructs**
 
-*Social constructs have inherent ambiguity in their definition and interpretation in the social world.* Opportunities and open questions to address this challenge are discussed in Section 4.1 of the paper.
+*Social constructs have inherent ambiguity in their definition and interpretation in the social world.* Discussed in Section 4.1 of the paper.
 
 **C2: Nuanced Signals** 
 
-*Social constructs are expressed through behaviors and signals that can be nuanced, often manifesting through different degrees of synchrony across actors and modalities. During interactions, small changes in social signals can lead to large shifts in social meaning being conveyed.* Opportunities and open questions to address this challenge are discussed in Section 4.2 of the paper.
+*Social constructs are expressed through behaviors and signals that can be nuanced, often manifesting through different degrees of synchrony across actors and modalities. During interactions, small changes in social signals can lead to large shifts in social meaning being conveyed.* Discussed in Section 4.2 of the paper.
 
 **C3: Multiple Perspectives** 
 
-*In social interactions, actors bring their own perspectives, experiences, and roles; these factors can change over time and influence the perspectives of other actors during interactions.* Opportunities and open questions to address this challenge are discussed in Section 4.3 of the paper.
+*In social interactions, actors bring their own perspectives, experiences, and roles; these factors can change over time and influence the perspectives of other actors during interactions.* Discussed in Section 4.3 of the paper.
 
 **C4: Agency and Adaptation**
 
-*Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.* Opportunities and open questions to address this challenge are discussed in Section 4.4 of the paper.
+*Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.* Discussed in Section 4.4 of the paper.
 
 ```bibtex
 @misc{mathur2024advancing,
