@@ -42,6 +42,16 @@ social settings, degrees of agent embodiment, and social attributes of humans, w
 
 *Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.* Opportunities and open questions to address this challenge are discussed in Section 4.4 of the paper.
 
+```bibtex
+@misc{mathur2024advancing,
+      title={Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions}, 
+      author={Leena Mathur and Paul Pu Liang and Louis-Philippe Morency},
+      year={2024},
+      eprint={2404.11023},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
+}
+
 
 # Table of Contents
 
