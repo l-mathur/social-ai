@@ -1,16 +1,13 @@
 # social-ai
-This is a repository of papers, resources, courses, and dissertations related to the multimodal and multidisciplinary goal of advancing socially-intelligent AI (Social-AI) agents. 
 
-By [Leena Mathur](https://l-mathur.github.io) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) at CMU's [School of Computer Science](https://www.cs.cmu.edu).  
+By [Leena Mathur](https://l-mathur.github.io) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) at CMU's [School of Computer Science](https://www.cs.cmu.edu). If there are any topics, papers, books, datasets, courses, or dissertations you would like added, please feel free to make a pull request or email lmathur@andrew.cmu.edu. All suggestions or contributions are welcome! 
 
-&#x1f4e3; If there are any topics, papers, datasets, courses, or dissertations you would like added, please feel free to make a pull request or email lmathur@andrew.cmu.edu. All contributions are welcome! 
+This is a repository of papers, books, courses, benchmarks/challenges, and dissertations related to the multimodal and multidisciplinary goal of advancing socially-intelligent AI (Social-AI) agents. This repository accompanies the position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023).
 
 
 # Social-AI Position Paper
 
-The position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](link) discusses core technical challenges, opportunities, and open questions towards building socially-intelligent AI (Social-AI) agents. Our paper is anchored in social intelligence concepts and progress in Social-AI across 6 computing communities: natural language processing, machine learning, computer vision, robotics, human-machine interaction (including human-computer interaction and human-robot interaction), and speech. This repository of resources will be continually updated with additional community resources. 
-
-Social-AI research interest has accelerated across computing communities in recent years:
+The position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) discusses a set of core technical challenges, along with opportunities and open questions, towards advancing socially-intelligent AI (Social-AI) agents situated in diverse social contexts. Our paper is anchored in social intelligence concepts and progress in Social-AI across 6 computing communities: natural language processing, machine learning, computer vision, robotics, human-machine interaction (including human-computer interaction and human-robot interaction), and speech. Social-AI research interest has accelerated across computing communities in recent years:
 
 <p align="center">
   <img src="cumulative.png" style="width: 60%;">
@@ -18,8 +15,7 @@ Social-AI research interest has accelerated across computing communities in rece
   <em>Cumulative number of Social-AI papers over time, based on the 3,257 papers from our Semantic Scholar Social-AI queries. Interest in Social-AI research has been accelerating across computing communities.</em>
 </p>
 
-We believe there are core technical challenges that must be addressed to advance the multidisciplinary, multimodal goal of building Social-AI. Our position paper is driven by the following question: What are core technical challenges, open questions, and opportunities for researchers to advance Social-AI?
-
+We believe there are core technical challenges that must be addressed to advance Social-AI, relevant to Social-AI research across the landscape of social contexts:
 
 <p align="center">
   <img src="challenges.png" style="width: 60%;">
@@ -58,11 +54,7 @@ social settings, degrees of agent embodiment, and social attributes of humans, w
 
 [Benchmarks](#benchmarks)
 
-[CMU Artificial Social Intelligence Course](#cmu-artificial-social-intelligence-course)
-
-[Additional Courses Relevant to Social-AI](#additional-courses-relevant-to-social-ai)
-
-[Workshops Relevant to Social-AI](#workshops-relevant-to-social-ai)
+[Courses Relevant to Social-AI](#courses-relevant-to-social-ai)
 
 [Dissertations Relevant to Social-AI](#dissertations-relevant-to-social-ai)
 
@@ -421,16 +413,17 @@ Social-AI agents can be situated within interactions spanning social units, inte
 | `Habitat 3.0` | simulated human-robot social navigation and object rearrangement | [ICLR 2024 paper](https://arxiv.org/abs/2310.13724) | [website](https://aihabitat.org/habitat3/)
 
 
+# Courses Relevant to Social-AI
 
+[11:866: Artificial Social Intelligence](https://cmu-multicomp-lab.github.io/asi-course/spring2023/), Carnegie Mellon University
 
-# CMU Artificial Social Intelligence Course
 CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-multicomp-lab.github.io/asi-course/spring2023/), most recently taught in Spring 2023. There are publicly-available [summaries](https://cmu-multicomp-lab.github.io/asi-course/spring2023/schedule/) from class discussions and reading lists for anyone interested in Social-AI topics. 
 
-# Additional Courses Relevant to Social-AI
+[Multimodal Probabilistic Learning of Human Communication](https://people.ict.usc.edu/~soleymani/files/HumanCommunicationLearning-Spring2021.pdf), University of Southern California
 
+[Affective Computing: An Interdisciplinary Approach](https://people.ict.usc.edu/gratch/public_html/CSCI534/CSCI534-Syllabus.pdf), University of Southern California
 
-
-# Workshops Relevant to Social-AI
+[Affective Computing and Ethics](https://www.media.mit.edu/courses/mas-630-affective-computing-and-ethics/), MIT
 
 
 # Dissertations Relevant to Social-AI
