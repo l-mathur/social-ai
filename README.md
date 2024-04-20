@@ -457,9 +457,13 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 
 [Foundations for a Theory of Mind for a Humanoid Robot](https://scazlab.yale.edu/sites/default/files/files/scassellati-phd.pdf), 2001, [Brian Scassellati](https://scazlab.yale.edu/people/brian-scassellati)
 
+[Socially guided Machine Learning](https://dspace.mit.edu/handle/1721.1/36160), 2006, [Andrea Thomaz](https://www.ece.utexas.edu/people/faculty/andrea-thomaz)
+
 [Context-Based Visual Feedback Recognition](https://dspace.mit.edu/handle/1721.1/34893), 2006, [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
 
 [Implicit and Automated Emotional Tagging of Videos](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ab8fb278db4405f7db08fa59404d9dd22d38bc83), 2011, [Mohammad Soleymani](https://people.ict.usc.edu/~soleymani/)
+
+[Computers to Help with Conversations: Affective Framework to Enhance Human Nonverbal Skills](https://hoques.com/Publications/2013/Hoque-PhD-Thesis-MIT.pdf), 2013, [Ehsan Hoque](https://hoques.com/)
 
 [Measuring college students' sleep, stress, mental health and wellbeing with wearable sensors and mobile phones](https://dspace.mit.edu/handle/1721.1/106066), 2016, [Akane Sano](https://profiles.rice.edu/faculty/akane-sano)
 
@@ -474,6 +478,8 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 [Social and Affective Machine Learning](https://www.media.mit.edu/publications/social-and-affective-machine-learning/), 2019, [Natasha Jaques](https://natashajaques.ai) 
 
 [Social Scene Understanding: Group Activity Parsing, Human-Robot Interactions, and Perception of Animacy](https://www.proquest.com/docview/2247820514?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses), 2019, [Tianmin Shu](https://www.tshu.io/)
+
+[Computational Social Roles](https://kilthub.cmu.edu/articles/thesis/Computational_Social_Roles/21699761), 2019, [Diyi Yang](https://cs.stanford.edu/~diyiy/)
 
 [Positive AI with Social Commonsense Models](https://maartensap.com/pdfs/sap2021positiveAIwithSocialCommonsenseModels.pdf), 2021, [Maarten Sap](http://maartensap.com)
 
