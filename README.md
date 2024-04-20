@@ -469,7 +469,11 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 
 [Cooperative and Transparent Machine Learning for the Context-Sensitive Analysis of Social Interactions](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/40153), 2018, Tobias Baur
 
+[Computational Foundations of Human Social Intelligence](https://dspace.mit.edu/handle/1721.1/120621), 2018, [Max Kleiman-Weiner](https://www.mit.edu/~maxkw/)
+
 [Social and Affective Machine Learning](https://www.media.mit.edu/publications/social-and-affective-machine-learning/), 2019, [Natasha Jaques](https://natashajaques.ai) 
+
+[Social Scene Understanding: Group Activity Parsing, Human-Robot Interactions, and Perception of Animacy](https://www.proquest.com/docview/2247820514?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses), 2019, [Tianmin Shu](https://www.tshu.io/)
 
 [Positive AI with Social Commonsense Models](https://maartensap.com/pdfs/sap2021positiveAIwithSocialCommonsenseModels.pdf), 2021, [Maarten Sap](http://maartensap.com)
 
@@ -478,6 +482,12 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 [Lifelong Personalization for Social Robot Learning Companions: Interactive Student Modeling Across Tasks and Over Time](https://dspace.mit.edu/handle/1721.1/152010), 2022, [Sam Spaulding](https://www.samspaulding.com)
 
 [Communication Beyond Words: Grounding Visual Body Motion with Language](https://lti.cs.cmu.edu/sites/default/files/ahuja%2C%20chaitanya%20-%20Thesis.pdf), 2022, [Chaitanya Ahuja](https://chahuja.com)
+
+[Conversation Modeling with Human Values, Social Relations, Mental States, and Structure Learning](https://escholarship.org/content/qt9st590kh/qt9st590kh_noSplash_f2aceb418db2824ea4ba5769e481a1ec.pdf?t=rbicuc), 2022, Liang Qiu
+
+[Synthesis of Multi-Modal Socially Intelligent Human-Robot Interaction](https://theses.hal.science/tel-03863734/document), 2022, Karen Tatarian
+
+[VirtualHome: Building Socially Intelligent Agents via Simulation](https://dspace.mit.edu/handle/1721.1/150100?show=full), 2023, [Xavier Puig](https://www.xavierpuigf.com/)
 
 [Towards Artificial Social Intelligence in the Wild: Sensing, Synthesizing, Modeling, and Perceiving Nonverbal Social Human Behavior](https://repository.tudelft.nl/islandora/object/uuid:05fe4340-31bb-4c24-a827-69189aa2622b), 2023, [Chirag Raman](https://chiragraman.com/)
 
