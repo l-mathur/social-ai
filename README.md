@@ -28,21 +28,21 @@ be situated, with interactions spanning social units, interaction structures, an
 social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles.</em>
 </p>
 
-**C1: Ambiguity in Constructs**
+**C1: Ambiguity in Constructs** (Section 4.1 of the paper)
 
-*Social constructs have inherent ambiguity in their definition and interpretation in the social world.* (Section 4.1 of the paper).
+*Social constructs have inherent ambiguity in their definition and interpretation in the social world.* 
 
-**C2: Nuanced Signals** 
+**C2: Nuanced Signals** (Section 4.2 of the paper)
 
-*Social constructs are expressed through behaviors and signals that can be nuanced, often manifesting through different degrees of synchrony across actors and modalities. During interactions, small changes in social signals can lead to large shifts in social meaning being conveyed.* (Section 4.2 of the paper).
+*Social constructs are expressed through behaviors and signals that can be nuanced, often manifesting through different degrees of synchrony across actors and modalities. During interactions, small changes in social signals can lead to large shifts in social meaning being conveyed.* 
 
-**C3: Multiple Perspectives** 
+**C3: Multiple Perspectives** (Section 4.3 of the paper)
 
-*In social interactions, actors bring their own perspectives, experiences, and roles; these factors can change over time and influence the perspectives of other actors during interactions.* (Section 4.3 of the paper).
+*In social interactions, actors bring their own perspectives, experiences, and roles; these factors can change over time and influence the perspectives of other actors during interactions.* 
 
-**C4: Agency and Adaptation**
+**C4: Agency and Adaptation** (Section 4.4 of the paper)
 
-*Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.* (Section 4.4 of the paper).
+*Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.*
 
 ```bibtex
 @misc{mathur2024advancing,
