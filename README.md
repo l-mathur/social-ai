@@ -65,9 +65,9 @@ social settings, degrees of agent embodiment, and social attributes of humans, w
 
 [Benchmarks](#benchmarks)
 
-[Courses Relevant to Social-AI](#courses-relevant-to-social-ai)
+[Courses](#courses)
 
-[Dissertations Relevant to Social-AI](#dissertations-relevant-to-social-ai)
+[Dissertations](#dissertations)
 
 
 
@@ -430,7 +430,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 | `Habitat 3.0` | simulated human-robot social navigation and object rearrangement | [ICLR 2024 paper](https://arxiv.org/abs/2310.13724) | [website](https://aihabitat.org/habitat3/)
 
 
-# Courses Relevant to Social-AI
+# Courses 
 
 *Note: This section is being continually updated. Pull requests to add courses are always welcome, too*
 
@@ -445,7 +445,7 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 [Affective Computing and Ethics](https://www.media.mit.edu/courses/mas-630-affective-computing-and-ethics/), MIT
 
 
-# Dissertations Relevant to Social-AI
+# Dissertations 
 
 *Note: This section is not exhaustive and is being continually updated. Pull requests to add dissertations are always welcome, too*
 
