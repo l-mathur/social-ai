@@ -166,8 +166,6 @@ We consider the following 6 competencies to be core competencies of social intel
 [Can Social Interaction Constitute Social Cognition?](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(10)00146-4), Trends in Cognitive Science, 2010
 
 
-
-
 ## Dimensions of Social Context, Additional Concepts, and Frameworks
 Social-AI agents can be situated within interactions spanning social units, interaction structures, and timescales. Interactions can span social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles. 
 
@@ -212,6 +210,8 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 
 # Social-AI Research
+
+*Note: This section will be continually updated with representative papers. Pull requests are always welcome, too*
 
 ## Rule-Based Approaches
 
@@ -345,7 +345,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 ## Example Applications
 
-This section includes representative works and will be continually updated.
+*Note: This section includes representative work and is being continually updated.*
 
 ### Health and Well-being
 
@@ -416,6 +416,8 @@ This section includes representative works and will be continually updated.
 
 # Benchmarks
 
+*Note: This section is being continually updated. Pull requests are always welcome, too*
+
 | Dataset | Modality and/or Domain | Paper | Data/Code |
 |:-----------|:----------------------------|:------------:|:------------:|
 |`Social-IQ`| multimodal video qa | [CVPR 2019 paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) | [data + code](https://github.com/A2Zadeh/Social-IQ)
@@ -430,6 +432,8 @@ This section includes representative works and will be continually updated.
 
 # Courses Relevant to Social-AI
 
+*Note: This section is being continually updated. Pull requests to add courses are always welcome, too*
+
 [11:866: Artificial Social Intelligence](https://cmu-multicomp-lab.github.io/asi-course/spring2023/), Carnegie Mellon University
 
 CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-multicomp-lab.github.io/asi-course/spring2023/), most recently taught in Spring 2023. There are publicly-available [summaries](https://cmu-multicomp-lab.github.io/asi-course/spring2023/schedule/) from class discussions and reading lists for anyone interested in Social-AI topics. 
@@ -443,7 +447,7 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 
 # Dissertations Relevant to Social-AI
 
-*Note: This section is not exhaustive and is being continually updated. Pull requests are always welcome, too*
+*Note: This section is not exhaustive and is being continually updated. Pull requests to add dissertations are always welcome, too*
 
 [Communication and Coarticulation in Facial Animation](https://www.proquest.com/docview/303942617?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses), 1991, [Catherine Pelachaud](https://scholar.google.com/citations?user=n9ZNrsEAAAAJ&hl=en)
 
@@ -474,6 +478,8 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 [Lifelong Personalization for Social Robot Learning Companions: Interactive Student Modeling Across Tasks and Over Time](https://dspace.mit.edu/handle/1721.1/152010), 2022, [Sam Spaulding](https://www.samspaulding.com)
 
 [Communication Beyond Words: Grounding Visual Body Motion with Language](https://lti.cs.cmu.edu/sites/default/files/ahuja%2C%20chaitanya%20-%20Thesis.pdf), 2022, [Chaitanya Ahuja](https://chahuja.com)
+
+[Towards Artificial Social Intelligence in the Wild: Sensing, Synthesizing, Modeling, and Perceiving Nonverbal Social Human Behavior](https://repository.tudelft.nl/islandora/object/uuid:05fe4340-31bb-4c24-a827-69189aa2622b), 2023, [Chirag Raman](https://chiragraman.com/)
 
 
 
