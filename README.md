@@ -9,15 +9,15 @@ This repository contains resources related to advancing socially-intelligent AI 
 
 # Social-AI Position Paper
 
-[Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) discusses core technical challenges, along with opportunities and open questions, towards advancing socially-intelligent AI (Social-AI) agents that can be situated in diverse social contexts. Our paper is anchored in social intelligence concepts and progress in Social-AI across 6 computing communities: natural language processing, machine learning, computer vision, robotics, human-machine interaction (including human-computer interaction and human-robot interaction), and speech. Social-AI research interest has accelerated across computing communities in recent years:
+[Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) discusses core technical challenges, along with opportunities and open questions, towards advancing socially-intelligent AI (Social-AI) agents. Our paper is anchored in social intelligence concepts and progress in Social-AI across 6 computing communities: natural language processing, machine learning, computer vision, robotics, human-machine interaction (including human-computer interaction and human-robot interaction), and speech. Social-AI research interest has accelerated across computing communities in recent years:
 
 <p align="center">
   <img src="cumulative.png" style="width: 60%;">
 
-  <em>Cumulative number of Social-AI papers over time, based on the 3,257 papers from our Semantic Scholar Social-AI queries. Interest in Social-AI research has been accelerating across computing communities.</em>
+  <em>Cumulative number of Social-AI papers over time, based on the 3,257 papers from our Semantic Scholar Social-AI queries.</em>
 </p>
 
-We believe there are core technical challenges that must be addressed to advance social intelligence in AI agents, relevant to agents situated across the landscape of possible social contexts:
+We believe there are core technical challenges that are particularly relevant to advancing social intelligence in AI agents with a variety of embodiments, social attributes, and roles, interacting in a range of social contexts.
 
 <p align="center">
   <img src="challenges.png" style="width: 60%;">
@@ -30,19 +30,19 @@ social settings, degrees of agent embodiment, and social attributes of humans, w
 
 **C1: Ambiguity in Constructs**
 
-*Social constructs have inherent ambiguity in their definition and interpretation in the social world.* Discussed in Section 4.1 of the paper.
+*Social constructs have inherent ambiguity in their definition and interpretation in the social world.* (Section 4.1 of the paper).
 
 **C2: Nuanced Signals** 
 
-*Social constructs are expressed through behaviors and signals that can be nuanced, often manifesting through different degrees of synchrony across actors and modalities. During interactions, small changes in social signals can lead to large shifts in social meaning being conveyed.* Discussed in Section 4.2 of the paper.
+*Social constructs are expressed through behaviors and signals that can be nuanced, often manifesting through different degrees of synchrony across actors and modalities. During interactions, small changes in social signals can lead to large shifts in social meaning being conveyed.* (Section 4.2 of the paper).
 
 **C3: Multiple Perspectives** 
 
-*In social interactions, actors bring their own perspectives, experiences, and roles; these factors can change over time and influence the perspectives of other actors during interactions.* Discussed in Section 4.3 of the paper.
+*In social interactions, actors bring their own perspectives, experiences, and roles; these factors can change over time and influence the perspectives of other actors during interactions.* (Section 4.3 of the paper).
 
 **C4: Agency and Adaptation**
 
-*Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.* Discussed in Section 4.4 of the paper.
+*Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.* (Section 4.4 of the paper).
 
 ```bibtex
 @misc{mathur2024advancing,
