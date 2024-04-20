@@ -443,6 +443,8 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 
 # Dissertations Relevant to Social-AI
 
+*Note: This section is not exhaustive and is being continually updated. Pull requests are always welcome, too*
+
 [Communication and Coarticulation in Facial Animation](https://www.proquest.com/docview/303942617?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses), 1991, [Catherine Pelachaud](https://scholar.google.com/citations?user=n9ZNrsEAAAAJ&hl=en)
 
 [Interaction and Intelligent Behavior](https://dspace.mit.edu/handle/1721.1/12012), 1994, [Maja J Matarić](https://maja-mataric.web.app)
@@ -460,6 +462,8 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 [Nonverbal Communication in Socially Assistive Human-Robot Interaction](https://scazlab.yale.edu/sites/default/files/files/admoni_thesis.pdf), [Henny Admoni](https://hennyadmoni.com)
 
 [A Bayesian Theory of Mind Approach to Nonverbal Communication for Human-Robot Interactions](https://www.media.mit.edu/publications/jinjoolee-phd-2017/), 2017, [Jin Joo Lee](https://www.media.mit.edu/people/jinjoo/overview/)
+
+[Cooperative and Transparent Machine Learning for the Context-Sensitive Analysis of Social Interactions](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/40153), 2018, Tobias Baur
 
 [Social and Affective Machine Learning](https://www.media.mit.edu/publications/social-and-affective-machine-learning/), 2019, [Natasha Jaques](https://natashajaques.ai) 
 
