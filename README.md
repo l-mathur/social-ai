@@ -72,7 +72,7 @@ social settings, degrees of agent embodiment, and social attributes of humans, w
 
 
 
-# Social Intelligence Foundations
+# Social Intelligence Foundations 
 
 ## What is a social entity? 
 
@@ -211,7 +211,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 # Social-AI Research
 
-*Note: This section will be continually updated with representative papers. Pull requests are always welcome, too*
+*Note: This section will be periodically updated with representative papers. Pull requests are always welcome, too*
 
 ## Rule-Based Approaches
 
@@ -345,7 +345,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 ## Example Applications
 
-*Note: This section includes representative work and is being continually updated.*
+*Note: This section includes representative work and is being periodically updated.*
 
 ### Health and Well-being
 
@@ -416,7 +416,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 # Benchmarks
 
-*Note: This section is being continually updated. Pull requests are always welcome, too*
+*Note: This section is being periodically updated. Pull requests are always welcome, too*
 
 | Dataset | Modality and/or Domain | Paper | Data/Code |
 |:-----------|:----------------------------|:------------:|:------------:|
@@ -432,7 +432,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 # Courses 
 
-*Note: This section is being continually updated. Pull requests to add courses are always welcome, too*
+*Note: This section is being periodically updated. Pull requests to add courses are always welcome, too*
 
 [11:866: Artificial Social Intelligence](https://cmu-multicomp-lab.github.io/asi-course/spring2023/), Carnegie Mellon University
 
@@ -447,7 +447,7 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 
 # Dissertations 
 
-*Note: This section is not exhaustive and is being continually updated. Pull requests to add dissertations are always welcome, too*
+*Note: This section is not exhaustive and is being periodically updated. Pull requests to add dissertations are always welcome, too*
 
 [Communication and Coarticulation in Facial Animation](https://www.proquest.com/docview/303942617?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses), 1991, [Catherine Pelachaud](https://scholar.google.com/citations?user=n9ZNrsEAAAAJ&hl=en)
 
@@ -460,6 +460,8 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 [Socially guided Machine Learning](https://dspace.mit.edu/handle/1721.1/36160), 2006, [Andrea Thomaz](https://www.ece.utexas.edu/people/faculty/andrea-thomaz)
 
 [Context-Based Visual Feedback Recognition](https://dspace.mit.edu/handle/1721.1/34893), 2006, [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
+
+[Vision-Based Multimodal Analysis of Affective Face and Upper-Body Behavior](https://opus.lib.uts.edu.au/handle/10453/52678)l 2007, [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/)
 
 [Implicit and Automated Emotional Tagging of Videos](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ab8fb278db4405f7db08fa59404d9dd22d38bc83), 2011, [Mohammad Soleymani](https://people.ict.usc.edu/~soleymani/)
 
@@ -480,6 +482,8 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 [Social Scene Understanding: Group Activity Parsing, Human-Robot Interactions, and Perception of Animacy](https://www.proquest.com/docview/2247820514?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses), 2019, [Tianmin Shu](https://www.tshu.io/)
 
 [Computational Social Roles](https://kilthub.cmu.edu/articles/thesis/Computational_Social_Roles/21699761), 2019, [Diyi Yang](https://cs.stanford.edu/~diyiy/)
+
+[Modeling Visual Minutiae: Gestures, Styles, and Temporal Patterns](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-148.pdf), 2020, [Shiry Ginosar](https://people.eecs.berkeley.edu/~shiry/)
 
 [Positive AI with Social Commonsense Models](https://maartensap.com/pdfs/sap2021positiveAIwithSocialCommonsenseModels.pdf), 2021, [Maarten Sap](http://maartensap.com)
 
