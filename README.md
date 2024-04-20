@@ -261,7 +261,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [AVEC 2012: The Continuous Audio/visual Emotion Challenge](https://dl.acm.org/doi/abs/10.1145/2388676.2388776?casa_token=lRk-1lAy-xUAAAAA:IG-ZQmPjcHDAUrvKRXbTjQKPHiIeIhBwZ9IP1uq84lqFRFRLncRiECj07MX2ZwYcPckpRdvpIZXDFA), ACM ICMI, 2012
 
-*Note: AVEC has occurred several times as a workshop. See more in the [workshops](#workshops-relevant-to-social-ai) section below.*
+*Note: AVEC has occurred several times as a workshop.*
 
 [Learning the Communication of Intent Prior to Physical Collaboration](https://ieeexplore.ieee.org/abstract/document/6343875?casa_token=Z2C5_ainDS0AAAAA:uhOcYlKbwytfF5hYBuvDUM9uhIig0-MZ2GSt45ThjoU0GI2hQPqRBlFJn_T4Ft1d7BnreG_nVw), IEEE RO-MAN, 2012
 
