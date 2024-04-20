@@ -330,6 +330,8 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions](https://arxiv.org/abs/2310.15421), EMNLP, 2023
 
+[NormBank: A Knowledge Bank of Situational Social Norms](https://arxiv.org/abs/2305.17008), ACL, 2023 
+
 [Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models](https://arxiv.org/abs/2305.14763), EACL, 2024
 
 [Building Cooperative Embodied Agents Modularly with Large Language Models](https://arxiv.org/abs/2307.02485), ICLR 2024
