@@ -12,7 +12,7 @@ The [position paper](https://arxiv.org/abs/2404.11023) discusses core technical 
 <p align="center">
   <img src="cumulative.png" style="width: 60%;">
 
-  <em>Cumulative number of Social-AI papers over time, based on 3,257 papers from Semantic Scholar Social-AI queries.</em>
+  <em>Cumulative number of Social-AI papers over time, based on 3,257 papers from Semantic Scholar Social-AI queries. Social-AI research interest has been increasingly rapidly!</em>
 </p>
 
 We believe there are core technical challenges that are particularly relevant to advancing social intelligence in AI agents with a variety of embodiments, social attributes, and roles, interacting in a range of social contexts.
