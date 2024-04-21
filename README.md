@@ -7,9 +7,7 @@ This repository contains resources related to advancing socially-intelligent AI 
  This repository accompanies the position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) by [Leena Mathur](https://l-mathur.github.io/), [Paul Liang](https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) and [Machine Learning Department](https://www.ml.cmu.edu/) at CMU.
 
 
-# Social-AI Position Paper
-
-[Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) discusses core technical challenges, along with opportunities and open questions, towards advancing socially-intelligent AI (Social-AI) agents. Our paper is anchored in social intelligence concepts and progress in Social-AI across 6 computing communities: natural language processing, machine learning, computer vision, robotics, human-machine interaction (including human-computer interaction and human-robot interaction), and speech. Social-AI research interest has accelerated across computing communities in recent years:
+[The position paper](https://arxiv.org/abs/2404.11023) discusses core technical challenges, along with opportunities and open questions, towards advancing social intelligence in AI agents. Our paper is anchored in social intelligence concepts and progress in Social-AI across 6 computing communities: natural language processing, machine learning, computer vision, robotics, human-machine interaction (including human-computer interaction and human-robot interaction), and speech. Social-AI research interest has accelerated across computing communities in recent years:
 
 <p align="center">
   <img src="cumulative.png" style="width: 60%;">
@@ -24,8 +22,7 @@ We believe there are core technical challenges that are particularly relevant to
 
   <em>(A) Four core technical challenges in Social-AI research, illustrated in an example context of a Social-AI
 agent observing and learning from a human-human interaction. (B) Social contexts in which Social-AI agents can
-be situated, with interactions spanning social units, interaction structures, and timescales. Interactions can span
-social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles.</em>
+be situated, spanning interaction dimensions/structures, social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles.</em>
 </p>
 
 **C1: Ambiguity in Constructs** (Section 4.1 of the paper)
