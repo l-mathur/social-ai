@@ -7,7 +7,7 @@ This repository contains resources related to advancing socially-intelligent AI 
 This repository accompanies the position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) by [Leena Mathur](https://l-mathur.github.io/), [Paul Liang](https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) and [Machine Learning Department](https://www.ml.cmu.edu/) at CMU.
 
 
-The [position paper](https://arxiv.org/abs/2404.11023) discusses core technical challenges, along with opportunities and open questions, towards advancing social intelligence in AI agents. Our paper is anchored in social intelligence concepts and progress in Social-AI across 6 computing communities: natural language processing, machine learning, computer vision, robotics, human-machine interaction (including human-computer interaction and human-robot interaction), and speech. Social-AI research interest has accelerated across computing communities in recent years:
+The [position paper](https://arxiv.org/abs/2404.11023) discusses core technical challenges, along with opportunities and open questions, towards advancing social intelligence in AI agents. Social-AI research interest has accelerated across computing communities in recent years:
 
 <p align="center">
   <img src="cumulative.png" style="width: 60%;">
@@ -411,7 +411,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Federated Continual Learning for Socially Aware Robotics](https://arxiv.org/abs/2201.05527), IEEE RO-MAN, 2023
 
-# Benchmarks
+# Benchmarks/Datasets
 
 *Note: This section is being periodically updated. Pull requests are always welcome, too*
 
@@ -420,6 +420,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 |`Social-IQ`| multimodal video qa | [CVPR 2019 paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) | [data + code](https://github.com/A2Zadeh/Social-IQ)
 |`Social-IQ 2.0`| multimodal video qa | [ICCV 2023 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/) | [data + code](https://github.com/abwilf/Social-IQ-2.0-Challenge)
 |`Social-IQa`| text qa | [EMNLP 2019 paper](https://arxiv.org/pdf/1904.09728.pdf) | [data + code](https://github.com/google/BIG-bench/blob/main/bigbench/benchmark_tasks/social_iqa/README.md)
+|`EmpathicStories++`| text empathy prediction | ACL 2024 paper| [data](https://mitmedialab.github.io/empathic-stories-multimodal//)
 |`CMU-MOSEI`| multimodal sentiment and emotion intensity | [ACL 2018 paper](https://aclanthology.org/P18-1208.pdf) | [data + code](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 | `IEMOCAP` | multimodal emotional dyadic motion capture | [LREC 2008 paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | [data](https://sail.usc.edu/software/databases/) 
 | `GENEA` | virtual agent gesture generation | [ICMI 2023 paper](https://dl.acm.org/doi/abs/10.1145/3577190.3616120) | [website](https://svito-zar.github.io/GENEAchallenge2023/)
