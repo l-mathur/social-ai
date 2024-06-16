@@ -373,6 +373,9 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [The Social Impact of a Robot Co-worker in Industrial Setting](https://dl.acm.org/doi/10.1145/2702123.2702181), CHI, 2015
 
+[Investigating the Role of Multi-modal Social Cues in Human-Robot Collaboration in Industrial Settings](https://link.springer.com/article/10.1007/s12369-023-01018-9), International Journal of Social Robotics, 2023
+
+
 
 
 # Ethics, Safety, and Participatory Social-AI
@@ -411,21 +414,27 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Federated Continual Learning for Socially Aware Robotics](https://arxiv.org/abs/2201.05527), IEEE RO-MAN, 2023
 
-# Benchmarks/Datasets
+# Benchmarks, Datasets, and Environments
 
 *Note: This section is being periodically updated. Pull requests are always welcome, too*
 
-| Dataset | Modality and/or Domain | Paper | Data/Code |
+| Resource | Modality and/or Domain | Paper | Data/Code |
 |:-----------|:----------------------------|:------------:|:------------:|
-|`Social-IQ`| multimodal video qa | [CVPR 2019 paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) | [data + code](https://github.com/A2Zadeh/Social-IQ)
+|`Social-IQ`| multimodal video qa | [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) | [data + code](https://github.com/A2Zadeh/Social-IQ)
 |`Social-IQ 2.0`| multimodal video qa | [ICCV 2023 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/) | [data + code](https://github.com/abwilf/Social-IQ-2.0-Challenge)
-|`Social-IQa`| text qa | [EMNLP 2019 paper](https://arxiv.org/pdf/1904.09728.pdf) | [data + code](https://github.com/google/BIG-bench/blob/main/bigbench/benchmark_tasks/social_iqa/README.md)
-|`EmpathicStories++`| text empathy prediction | ACL 2024 paper| [data](https://mitmedialab.github.io/empathic-stories-multimodal//)
-|`CMU-MOSEI`| multimodal sentiment and emotion intensity | [ACL 2018 paper](https://aclanthology.org/P18-1208.pdf) | [data + code](https://github.com/A2Zadeh/CMU-MultimodalSDK)
-| `IEMOCAP` | multimodal emotional dyadic motion capture | [LREC 2008 paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | [data](https://sail.usc.edu/software/databases/) 
-| `GENEA` | virtual agent gesture generation | [ICMI 2023 paper](https://dl.acm.org/doi/abs/10.1145/3577190.3616120) | [website](https://svito-zar.github.io/GENEAchallenge2023/)
-| `SocNavBench` | robot social navigation simulation | [THRI 2022 paper](https://dl.acm.org/doi/full/10.1145/3476413) | [website](https://github.com/CMU-TBD/SocNavBench)
-| `Habitat 3.0` | simulated human-robot social navigation and object rearrangement | [ICLR 2024 paper](https://arxiv.org/abs/2310.13724) | [website](https://aihabitat.org/habitat3/)
+|`Social-IQa`| text qa | [paper](https://arxiv.org/pdf/1904.09728.pdf) | [data + code](https://github.com/google/BIG-bench/blob/main/bigbench/benchmark_tasks/social_iqa/README.md)
+|`EmpathicStories++`| text empathy prediction | [paper](https://arxiv.org/abs/2405.15708)| [data](https://mitmedialab.github.io/empathic-stories-multimodal//)
+|`CMU-MOSEI`| multimodal sentiment and emotion intensity | [paper](https://aclanthology.org/P18-1208.pdf) | [data + code](https://github.com/A2Zadeh/CMU-MultimodalSDK)
+| `IEMOCAP` | multimodal emotional dyadic motion capture | [paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | [data](https://sail.usc.edu/software/databases/) 
+| `GENEA` | virtual agent gesture generation | [paper](https://dl.acm.org/doi/abs/10.1145/3577190.3616120) | [website](https://svito-zar.github.io/GENEAchallenge2023/)
+| `SocNavBench` | robot social navigation simulation | [paper](https://dl.acm.org/doi/full/10.1145/3476413) | [website](https://github.com/CMU-TBD/SocNavBench)
+| `Habitat 3.0` | simulated human-robot social navigation and object rearrangement tasks| [ICLR 2024 paper](https://arxiv.org/abs/2310.13724) | [website](https://aihabitat.org/habitat3/)
+| `SOTOPIA` | social intelligence abilities in language agents | [paper](https://arxiv.org/abs/2310.11667) | [website](https://www.sotopia.world) 
+| `COELA` | cooperative embodied agents | [paper](https://arxiv.org/abs/2307.02485) | [website](https://www.sotopia.world)
+| `AgentVerse` | cooperation in multi-agent systems | [paper](https://arxiv.org/abs/2308.10848) | [repo](https://github.com/OpenBMB/AgentVerse/?tab=readme-ov-file)
+| `CAMEL` | cooperative behaviors and abilities of multi-agent systems | [paper](https://arxiv.org/abs/2303.17760) | [website](https://www.camel-ai.org)
+
+
 
 
 # Courses 
@@ -445,7 +454,7 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 
 # Dissertations 
 
-*Note: This section is not exhaustive and is being periodically updated. Pull requests to add dissertations are always welcome, too*
+*Note: This section is being periodically updated. Pull requests to add dissertations are always welcome, too*
 
 [Communication and Coarticulation in Facial Animation](https://www.proquest.com/docview/303942617?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses), 1991, [Catherine Pelachaud](https://scholar.google.com/citations?user=n9ZNrsEAAAAJ&hl=en)
 
@@ -499,7 +508,6 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 
 [Towards Artificial Social Intelligence in the Wild: Sensing, Synthesizing, Modeling, and Perceiving Nonverbal Social Human Behavior](https://repository.tudelft.nl/islandora/object/uuid:05fe4340-31bb-4c24-a827-69189aa2622b), 2023, [Chirag Raman](https://chiragraman.com/)
 
-
-
+[Foundations of Multisensory Artificial Intelligence](https://arxiv.org/abs/2404.18976), 2024, [Paul Pu Liang](https://pliang279.github.io)
 
 
