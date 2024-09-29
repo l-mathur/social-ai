@@ -1,21 +1,10 @@
 # social-ai
 
-By [Leena Mathur](https://l-mathur.github.io) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) at CMU's [School of Computer Science](https://www.cs.cmu.edu). 
+Repo by [Leena Mathur](https://l-mathur.github.io) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) at CMU's [School of Computer Science](https://www.cs.cmu.edu). 
 
 This repository contains resources related to advancing socially-intelligent AI (Social-AI) agents. If there are any topics, papers, books, benchmarks, courses, or dissertations you would like added, please feel free to make a pull request or email lmathur@andrew.cmu.edu. All suggestions or contributions are welcome! 
 
-This repository accompanies the position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) by [Leena Mathur](https://l-mathur.github.io/), [Paul Liang](https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) and [Machine Learning Department](https://www.ml.cmu.edu/) at CMU.
-
-
-The [position paper](https://arxiv.org/abs/2404.11023) discusses core technical challenges, along with opportunities and open questions, towards advancing social intelligence in AI agents. Social-AI research interest has accelerated across computing communities in recent years:
-
-<p align="center">
-  <img src="cumulative.png" style="width: 60%;">
-
-  <em>Cumulative number of Social-AI papers over time, based on 3,257 papers from Semantic Scholar Social-AI queries. Social-AI research interest has been increasingly rapidly!</em>
-</p>
-
-We believe there are core technical challenges that are particularly relevant to advancing social intelligence in AI agents with a variety of embodiments, social attributes, and roles, interacting in a range of social contexts.
+This repository accompanies the EMNLP 2024 position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) by [Leena Mathur](https://l-mathur.github.io/), [Paul Liang](https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) and [Machine Learning Department](https://www.ml.cmu.edu/) at CMU. The [paper](https://arxiv.org/abs/2404.11023) discusses core technical challenges, opportunities, and open questions, towards advancing social intelligence in AI agents. 
 
 <p align="center">
   <img src="challenges.png" style="width: 60%;">
@@ -65,7 +54,6 @@ be situated, spanning interaction dimensions/structures, social settings, degree
 [Courses](#courses)
 
 [Dissertations](#dissertations)
-
 
 
 
@@ -511,3 +499,13 @@ CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-mul
 [Foundations of Multisensory Artificial Intelligence](https://arxiv.org/abs/2404.18976), 2024, [Paul Pu Liang](https://pliang279.github.io)
 
 
+# Additional Positions and Surveys
+
+Position paper mapping out data infrastructure for Social-AI NLP research: 
+
+[Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future](https://arxiv.org/abs/2403.14659), 2024
+
+
+Survey on understanding social interactions -- understanding verbal, nonverbal, multimodal cues: 
+
+[Towards Social AI: A Survey on Understanding Social Interactions](https://arxiv.org/abs/2409.15316), 2024
