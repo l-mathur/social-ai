@@ -55,6 +55,7 @@ be situated, spanning interaction dimensions/structures, social settings, degree
 
 [Dissertations](#dissertations)
 
+[Additional Positions and Surveys](#additional-positions-and-surveys)
 
 
 # Social Intelligence Foundations 
