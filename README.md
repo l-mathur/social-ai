@@ -314,9 +314,11 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Sotopia: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667), ICLR, 2024
 
-[MMToM-QA: Multimodal Theory of Mind Question Answering](https://arxiv.org/abs/2401.08743),arXiv, 2024 
+[MMToM-QA: Multimodal Theory of Mind Question Answering](https://arxiv.org/abs/2401.08743), arXiv, 2024 
 
 [Habitat 3.0: A Co-habitat for Humans, Avatars and Robots](https://arxiv.org/abs/2310.13724), ICLR 2024
+
+[PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks](https://arxiv.org/abs/2411.00081), arXiv, 2024 
 
 
 ## Example Applications
@@ -407,7 +409,8 @@ Social-AI agents can be situated within interactions spanning social units, inte
 | `IEMOCAP` | multimodal emotional dyadic motion capture | [paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | [data](https://sail.usc.edu/software/databases/) 
 | `GENEA` | virtual agent gesture generation | [paper](https://dl.acm.org/doi/abs/10.1145/3577190.3616120) | [website](https://svito-zar.github.io/GENEAchallenge2023/)
 | `SocNavBench` | robot social navigation simulation | [paper](https://dl.acm.org/doi/full/10.1145/3476413) | [website](https://github.com/CMU-TBD/SocNavBench)
-| `Habitat 3.0` | simulated human-robot social navigation and object rearrangement tasks| [ICLR 2024 paper](https://arxiv.org/abs/2310.13724) | [website](https://aihabitat.org/habitat3/)
+| `Habitat 3.0` | simulated human-robot social navigation and object rearrangement tasks| [paper](https://arxiv.org/abs/2310.13724) | [website](https://aihabitat.org/habitat3/)
+| `PARTNR` | simulated human-robot coordination | [paper](https://arxiv.org/abs/2411.00081)| [website](https://aihabitat.org/partnr/)
 | `SOTOPIA` | social intelligence abilities in language agents | [paper](https://arxiv.org/abs/2310.11667) | [website](https://www.sotopia.world) 
 | `COELA` | cooperative embodied agents | [paper](https://arxiv.org/abs/2307.02485) | [website](https://www.sotopia.world)
 | `AgentVerse` | cooperation in multi-agent systems | [paper](https://arxiv.org/abs/2308.10848) | [repo](https://github.com/OpenBMB/AgentVerse/?tab=readme-ov-file)
