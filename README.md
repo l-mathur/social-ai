@@ -9,9 +9,7 @@ This repository accompanies the EMNLP 2024 position paper [Advancing Social Inte
 <p align="center">
   <img src="challenges.png" style="width: 60%;">
 
-  <em>(A) Four core technical challenges in Social-AI research, illustrated in an example context of a Social-AI
-agent observing and learning from a human-human interaction. (B) Social contexts in which Social-AI agents can
-be situated, spanning interaction dimensions/structures, social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles.</em>
+  <em>(A) Four core technical challenges in Social-AI research, illustrated in an example context of a Social-AI agent observing and learning from a human-human interaction. (B) The landscape of social contexts in which Social-AI agents can be situated, spanning interaction dimensions/structures, social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles.</em>
 </p>
 
 **C1: Ambiguity in Constructs** (Section 4.1 of the paper)
@@ -30,16 +28,6 @@ be situated, spanning interaction dimensions/structures, social settings, degree
 
 *Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.*
 
-```bibtex
-@misc{mathur2024advancing,
-      title={Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions}, 
-      author={Leena Mathur and Paul Pu Liang and Louis-Philippe Morency},
-      year={2024},
-      eprint={2404.11023},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC}
-}
-```
 
 # Table of Contents
 
@@ -288,6 +276,8 @@ Social-AI agents can be situated within interactions spanning social units, inte
 [Observer-aware Legibility for Social Navigation](https://ieeexplore.ieee.org/abstract/document/9900676?casa_token=seuRnXRtQT0AAAAA:DQlfFGG8hTVlgnZ74JFY6m777aJb9NbV-V6uhPGnaf9j8IS_OQ4iQH69NCqovHMwK_RAEqrpoQ), RO-MAN, 2022
 
 [Modeling Multimodal Social Interactions: New Challenges and Baselines with Densely Aligned Representations](https://arxiv.org/abs/2403.02090),CVPR, 2024
+
+[Value Internalization: Learning and Generalizing from Social Reward](https://escholarship.org/uc/item/5ww7n9hf), CogSci 2024
 
 
 ## Probing Social Intelligence Competencies of Models
