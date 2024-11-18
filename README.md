@@ -4,7 +4,12 @@ Repo by [Leena Mathur](https://l-mathur.github.io) from the [Language Technologi
 
 This repository contains resources related to advancing socially-intelligent AI (Social-AI) agents. If there are any topics, papers, books, benchmarks, courses, or dissertations you would like added, please feel free to make a pull request or email lmathur@andrew.cmu.edu. All suggestions or contributions are welcome! 
 
-This repository accompanies the EMNLP 2024 position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) by [Leena Mathur](https://l-mathur.github.io/), [Paul Liang](https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) and [Machine Learning Department](https://www.ml.cmu.edu/) at CMU. The [paper](https://arxiv.org/abs/2404.11023) discusses core technical challenges, opportunities, and open questions, towards advancing social intelligence in AI agents. 
+# Introduction
+
+This repository accompanies the EMNLP 2024 position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) by [Leena Mathur](https://l-mathur.github.io/), [Paul Liang](https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) and [Machine Learning Department](https://www.ml.cmu.edu/) at CMU. 
+
+The [paper](https://arxiv.org/abs/2404.11023) identifies a set of underlying technical challenges, opportunities, and open questions for researchers across computing communities to advance Social-AI. The paper is anchored in social intelligence concepts and prior work in Social-AI across 6 computing communities: natural language processing, machine learning, robotics, human-machine interaction, computer vision, and speech. 
+
 
 <p align="center">
   <img src="challenges.png" style="width: 60%;">
@@ -27,6 +32,25 @@ This repository accompanies the EMNLP 2024 position paper [Advancing Social Inte
 **C4: Agency and Adaptation** (Section 4.4 of the paper)
 
 *Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.*
+
+
+```bibtex
+@inproceedings{mathur-etal-2024-advancing,
+    title = "Advancing Social Intelligence in {AI} Agents: Technical Challenges and Open Questions",
+    author = "Mathur, Leena  and
+      Liang, Paul Pu  and
+      Morency, Louis-Philippe",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.1143",
+    pages = "20541--20560",
+}
 
 
 # Table of Contents
