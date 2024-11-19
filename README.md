@@ -35,21 +35,11 @@ The [paper](https://arxiv.org/abs/2404.11023) identifies a set of underlying tec
 
 
 ```bibtex
-@inproceedings{mathur-etal-2024-advancing,
-    title = "Advancing Social Intelligence in {AI} Agents: Technical Challenges and Open Questions",
-    author = "Mathur, Leena  and
-      Liang, Paul Pu  and
-      Morency, Louis-Philippe",
-    editor = "Al-Onaizan, Yaser  and
-      Bansal, Mohit  and
-      Chen, Yun-Nung",
-    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
-    month = nov,
-    year = "2024",
-    address = "Miami, Florida, USA",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.emnlp-main.1143",
-    pages = "20541--20560",
+@article{mathur2024advancing,
+  title={Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions},
+  author={Mathur, Leena and Liang, Paul Pu and Morency, Louis-Philippe},
+  journal={arXiv preprint arXiv:2404.11023},
+  year={2024}
 }
 ```
 
