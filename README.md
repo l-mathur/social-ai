@@ -325,15 +325,15 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models](https://arxiv.org/abs/2305.14763), EACL, 2024
 
-[Building Cooperative Embodied Agents Modularly with Large Language Models](https://arxiv.org/abs/2307.02485), ICLR 2024
+[Building Cooperative Embodied Agents Modularly with Large Language Models](https://arxiv.org/abs/2307.02485), ICLR, 2024
 
 [Sotopia: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667), ICLR, 2024
 
-[Habitat 3.0: A Co-habitat for Humans, Avatars and Robots](https://arxiv.org/abs/2310.13724), ICLR 2024
+[Habitat 3.0: A Co-habitat for Humans, Avatars and Robots](https://arxiv.org/abs/2310.13724), ICLR, 2024
 
-[MMToM-QA: Multimodal Theory of Mind Question Answering](https://arxiv.org/abs/2401.08743), ACL 2024 
+[MMToM-QA: Multimodal Theory of Mind Question Answering](https://arxiv.org/abs/2401.08743), ACL, 2024 
 
-[MuMA-ToM: Multi-modal Multi-Agent Theory of Mind](https://arxiv.org/abs/2408.12574), arXiv, 2024
+[MuMA-ToM: Multi-modal Multi-Agent Theory of Mind](https://arxiv.org/abs/2408.12574), AAAI, 2025
 
 [PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks](https://arxiv.org/abs/2411.00081), arXiv, 2024 
 
