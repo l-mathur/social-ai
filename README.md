@@ -8,7 +8,7 @@ This repository contains resources related to advancing socially-intelligent AI 
 
 This repository accompanies the EMNLP 2024 position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) by [Leena Mathur](https://l-mathur.github.io/), [Paul Liang](https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) and [Machine Learning Department](https://www.ml.cmu.edu/) at CMU. 
 
-The [paper](https://arxiv.org/abs/2404.11023) identifies a set of underlying technical challenges, opportunities, and open questions for researchers across computing communities to advance Social-AI. The paper is anchored in social intelligence concepts and prior work in Social-AI across 6 computing communities: natural language processing, machine learning, robotics, human-machine interaction, computer vision, and speech. 
+The paper identifies a set of underlying technical challenges, opportunities, and open questions for researchers across computing communities to advance Social-AI, anchored in social intelligence concepts and prior work across 6 computing communities: natural language processing, machine learning, robotics, human-machine interaction, computer vision, and speech. 
 
 
 <p align="center">
