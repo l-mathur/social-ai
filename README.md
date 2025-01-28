@@ -440,9 +440,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 *Note: This section is being periodically updated. Pull requests to add courses are always welcome, too*
 
-[11:866: Artificial Social Intelligence](https://cmu-multicomp-lab.github.io/asi-course/spring2023/), Carnegie Mellon University
-
-CMU offers a new course [11:866: Artificial Social Intelligence](https://cmu-multicomp-lab.github.io/asi-course/spring2023/), most recently taught in Spring 2023. There are publicly-available [summaries](https://cmu-multicomp-lab.github.io/asi-course/spring2023/schedule/) from class discussions and reading lists for anyone interested in Social-AI topics. 
+[11:866: Artificial Social Intelligence](https://cmu-multicomp-lab.github.io/asi-course/spring2023/), most recently taught in Spring 2023. There are publicly-available [summaries](https://cmu-multicomp-lab.github.io/asi-course/spring2023/schedule/) from class discussions and reading lists.
 
 [Multimodal Probabilistic Learning of Human Communication](https://people.ict.usc.edu/~soleymani/files/HumanCommunicationLearning-Spring2021.pdf), University of Southern California
 
