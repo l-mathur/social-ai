@@ -329,9 +329,11 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Sotopia: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667), ICLR, 2024
 
-[MMToM-QA: Multimodal Theory of Mind Question Answering](https://arxiv.org/abs/2401.08743), arXiv, 2024 
-
 [Habitat 3.0: A Co-habitat for Humans, Avatars and Robots](https://arxiv.org/abs/2310.13724), ICLR 2024
+
+[MMToM-QA: Multimodal Theory of Mind Question Answering](https://arxiv.org/abs/2401.08743), ACL 2024 
+
+[MuMA-ToM: Multi-modal Multi-Agent Theory of Mind](https://arxiv.org/abs/2408.12574), arXiv, 2024
 
 [PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks](https://arxiv.org/abs/2411.00081), arXiv, 2024 
 
@@ -430,8 +432,8 @@ Social-AI agents can be situated within interactions spanning social units, inte
 | `COELA` | cooperative embodied agents | [paper](https://arxiv.org/abs/2307.02485) | [website](https://www.sotopia.world)
 | `AgentVerse` | cooperation in multi-agent systems | [paper](https://arxiv.org/abs/2308.10848) | [repo](https://github.com/OpenBMB/AgentVerse/?tab=readme-ov-file)
 | `CAMEL` | cooperative behaviors and abilities of multi-agent systems | [paper](https://arxiv.org/abs/2303.17760) | [website](https://www.camel-ai.org)
-
-
+| `MMToM-QA` | multimodal theory of mind | [paper](https://arxiv.org/abs/2401.08743) | [data + code](https://chuanyangjin.com/mmtom-qa)
+| `MuMA-ToM` | multimodal multi-agent theory of mind | [paper](https://arxiv.org/abs/2408.12574) | [data + code](https://scai.cs.jhu.edu/projects/MuMA-ToM/)
 
 
 # Courses 
