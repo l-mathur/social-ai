@@ -4,14 +4,17 @@ Repo by [Leena Mathur](https://l-mathur.github.io) from the [Language Technologi
 
 This repository contains resources related to advancing socially-intelligent AI (Social-AI) agents. If there are any topics, papers, books, benchmarks, courses, or dissertations you would like added, please feel free to make a pull request or email lmathur@andrew.cmu.edu. All suggestions or contributions are welcome! 
 
-This repository accompanies the EMNLP 2024 position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) by [Leena Mathur](https://l-mathur.github.io/), [Paul Liang](https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) and [Machine Learning Department](https://www.ml.cmu.edu/) at CMU. The [paper](https://arxiv.org/abs/2404.11023) discusses core technical challenges, opportunities, and open questions, towards advancing social intelligence in AI agents. 
+# Introduction
+
+This repository accompanies the EMNLP 2024 position paper [Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions](https://arxiv.org/abs/2404.11023) by [Leena Mathur](https://l-mathur.github.io/), [Paul Liang](https://www.cs.cmu.edu/~pliang/), and [Louis-Philippe Morency](https://lti.cmu.edu/people/faculty/morency-louis-philippe.html) from the [Language Technologies Institute](https://www.lti.cs.cmu.edu) and [Machine Learning Department](https://www.ml.cmu.edu/) at CMU. 
+
+The [paper](https://arxiv.org/abs/2404.11023) identifies a set of underlying technical challenges, opportunities, and open questions for researchers across computing communities to advance Social-AI. The paper is anchored in social intelligence concepts and prior work in Social-AI across 6 computing communities: natural language processing, machine learning, robotics, human-machine interaction, computer vision, and speech. 
+
 
 <p align="center">
   <img src="challenges.png" style="width: 60%;">
 
-  <em>(A) Four core technical challenges in Social-AI research, illustrated in an example context of a Social-AI
-agent observing and learning from a human-human interaction. (B) Social contexts in which Social-AI agents can
-be situated, spanning interaction dimensions/structures, social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles.</em>
+  <em>(A) Four core technical challenges in Social-AI research, illustrated in an example context of a Social-AI agent observing and learning from a human-human interaction. (B) The landscape of social contexts in which Social-AI agents can be situated, spanning interaction dimensions/structures, social settings, degrees of agent embodiment, and social attributes of humans, with agents in several roles.</em>
 </p>
 
 **C1: Ambiguity in Constructs** (Section 4.1 of the paper)
@@ -30,16 +33,16 @@ be situated, spanning interaction dimensions/structures, social settings, degree
 
 *Actors learn from social experiences and adapt to social contexts, through interactions, influenced by their own agency, goals, motivations, and identities.*
 
+
 ```bibtex
-@misc{mathur2024advancing,
-      title={Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions}, 
-      author={Leena Mathur and Paul Pu Liang and Louis-Philippe Morency},
-      year={2024},
-      eprint={2404.11023},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC}
+@article{mathur2024advancing,
+  title={Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions},
+  author={Mathur, Leena and Liang, Paul Pu and Morency, Louis-Philippe},
+  journal={arXiv preprint arXiv:2404.11023},
+  year={2024}
 }
 ```
+
 
 # Table of Contents
 
@@ -289,6 +292,8 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Modeling Multimodal Social Interactions: New Challenges and Baselines with Densely Aligned Representations](https://arxiv.org/abs/2403.02090),CVPR, 2024
 
+[Value Internalization: Learning and Generalizing from Social Reward](https://escholarship.org/uc/item/5ww7n9hf), CogSci 2024
+
 
 ## Probing Social Intelligence Competencies of Models
 
@@ -326,9 +331,11 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Habitat 3.0: A Co-habitat for Humans, Avatars and Robots](https://arxiv.org/abs/2310.13724), ICLR 2024
 
-[MMToM-QA: Multimodal Theory of Mind Question Answering](https://arxiv.org/abs/2401.08743), ACL, 2024 
+[MMToM-QA: Multimodal Theory of Mind Question Answering](https://arxiv.org/abs/2401.08743), ACL 2024 
 
 [MuMA-ToM: Multi-modal Multi-Agent Theory of Mind](https://arxiv.org/abs/2408.12574), arXiv, 2024
+
+[PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks](https://arxiv.org/abs/2411.00081), arXiv, 2024 
 
 
 ## Example Applications
@@ -419,7 +426,8 @@ Social-AI agents can be situated within interactions spanning social units, inte
 | `IEMOCAP` | multimodal emotional dyadic motion capture | [paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | [data](https://sail.usc.edu/software/databases/) 
 | `GENEA` | virtual agent gesture generation | [paper](https://dl.acm.org/doi/abs/10.1145/3577190.3616120) | [website](https://svito-zar.github.io/GENEAchallenge2023/)
 | `SocNavBench` | robot social navigation simulation | [paper](https://dl.acm.org/doi/full/10.1145/3476413) | [website](https://github.com/CMU-TBD/SocNavBench)
-| `Habitat 3.0` | simulated human-robot social navigation and object rearrangement tasks| [ICLR 2024 paper](https://arxiv.org/abs/2310.13724) | [website](https://aihabitat.org/habitat3/)
+| `Habitat 3.0` | simulated human-robot social navigation and object rearrangement tasks| [paper](https://arxiv.org/abs/2310.13724) | [website](https://aihabitat.org/habitat3/)
+| `PARTNR` | simulated human-robot coordination | [paper](https://arxiv.org/abs/2411.00081)| [website](https://aihabitat.org/partnr/)
 | `SOTOPIA` | social intelligence abilities in language agents | [paper](https://arxiv.org/abs/2310.11667) | [website](https://www.sotopia.world) 
 | `COELA` | cooperative embodied agents | [paper](https://arxiv.org/abs/2307.02485) | [website](https://www.sotopia.world)
 | `AgentVerse` | cooperation in multi-agent systems | [paper](https://arxiv.org/abs/2308.10848) | [repo](https://github.com/OpenBMB/AgentVerse/?tab=readme-ov-file)
