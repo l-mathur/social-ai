@@ -424,7 +424,8 @@ Social-AI agents can be situated within interactions spanning social units, inte
 |:-----------|:----------------------------|:------------:|:------------:|
 |`Social-IQ`| multimodal video qa | [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) | [data + code](https://github.com/A2Zadeh/Social-IQ)
 |`Social-IQ 2.0`| multimodal video qa | [ICCV 2023 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/) | [data + code](https://github.com/abwilf/Social-IQ-2.0-Challenge)
-|`Social Genome`| multimodal video understanding, grounded social reasoning | [paper](https://arxiv.org/abs/2502.15109) | [webpage](https://cmu-multicomp-lab.github.io/social-genome/)
+|`Social Genome`| multimodal video qa, grounded social reasoning | [paper](https://arxiv.org/abs/2502.15109) | [webpage](https://cmu-multicomp-lab.github.io/social-genome/)
+|`MimeQA`| multimodal video qa, nonverbal social understanding| [paper](https://arxiv.org/abs/2502.16671) | [dataset](https://huggingface.co/datasets/hzli1202/MimeQA)
 | `MMToM-QA` | multimodal theory of mind | [paper](https://arxiv.org/abs/2401.08743) | [data + code](https://chuanyangjin.com/mmtom-qa)
 | `MuMA-ToM` | multimodal multi-agent theory of mind | [paper](https://arxiv.org/abs/2408.12574) | [data + code](https://scai.cs.jhu.edu/projects/MuMA-ToM/)
 |`Social-IQa`| text qa | [paper](https://arxiv.org/pdf/1904.09728.pdf) | [data + code](https://github.com/google/BIG-bench/blob/main/bigbench/benchmark_tasks/social_iqa/README.md)
