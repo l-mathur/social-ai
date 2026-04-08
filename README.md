@@ -160,7 +160,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Social identity shapes social perception and evaluation](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203124635-8/social-identity-shapes-social-perception-evaluation-jay-van-bavel-jenny-xiao-leor-hackel), Neuroscience of Prejudice and Intergroup Relations, 2013
 
-[Social Identity Theory](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203873694-17/social-identity-theory-sabine-trepte),Psychology of Entertainment, 2006
+[Social Identity Theory](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203873694-17/social-identity-theory-sabine-trepte), Psychology of Entertainment, 2006
 
 [Social Identity Theory](https://link.springer.com/chapter/10.1007/978-3-319-29869-6_1), 2016
 
@@ -290,7 +290,13 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Observer-aware Legibility for Social Navigation](https://ieeexplore.ieee.org/abstract/document/9900676?casa_token=seuRnXRtQT0AAAAA:DQlfFGG8hTVlgnZ74JFY6m777aJb9NbV-V6uhPGnaf9j8IS_OQ4iQH69NCqovHMwK_RAEqrpoQ), RO-MAN, 2022
 
-[Modeling Multimodal Social Interactions: New Challenges and Baselines with Densely Aligned Representations](https://arxiv.org/abs/2403.02090),CVPR, 2024
+[Modeling Multimodal Social Interactions: New Challenges and Baselines with Densely Aligned Representations](https://arxiv.org/abs/2403.02090), CVPR, 2024
+
+[Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models](https://arxiv.org/abs/2407.07086), arXiv, 2024
+
+[Generative Agent Simulations of 1,000 People](https://arxiv.org/abs/2411.10109), arXiv, 2024
+
+[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society](https://arxiv.org/abs/2502.08691), arXiv, 2025
 
 [Value Internalization: Learning and Generalizing from Social Reward](https://escholarship.org/uc/item/5ww7n9hf), CogSci 2024
 
@@ -340,6 +346,16 @@ Social-AI agents can be situated within interactions spanning social units, inte
 [SocialEval: Evaluating Social Intelligence of Large Language Models](https://arxiv.org/abs/2506.00900), ACL, 2025
 
 [Social Genome: Grounded Social Reasoning Abilities of Multimodal Models](https://cmu-multicomp-lab.github.io/social-genome/), arXiv, 2025
+
+[How FaR Are Large Language Models From Agents with Theory-of-Mind?](https://arxiv.org/abs/2310.03051), ICLR, 2024
+
+[OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models](https://arxiv.org/abs/2402.06044), ACL, 2024
+
+[SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents](https://arxiv.org/abs/2403.08715), ACL, 2024
+
+[MoMentS: A Comprehensive Multimodal Benchmark for Theory of Mind](https://arxiv.org/abs/2507.04415), Findings of EMNLP, 2025
+
+[Sotopia-RL: Reward Design for Social Intelligence](https://arxiv.org/abs/2508.03905), arXiv, 2025
 
 
 ## Example Applications
@@ -412,9 +428,13 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Never Trust Anything That Can Think for Itself, if You Can’t Control Its Privacy Settings: The Influence of a Robot’s Privacy Settings on Users’ Attitudes and Willingness to Self-disclose](https://link.springer.com/article/10.1007/s12369-023-01043-8), International Journal of Social Robotics, 2023
 
-[Using Design Metaphors to Understand User Expectations of Socially Interactive Robot Embodiments](https://arxiv.org/abs/2201.10671), ACM Transactions on Human-Robot Interation, 2023
+[Using Design Metaphors to Understand User Expectations of Socially Interactive Robot Embodiments](https://arxiv.org/abs/2201.10671), ACM Transactions on Human-Robot Interaction, 2023
 
 [Federated Continual Learning for Socially Aware Robotics](https://arxiv.org/abs/2201.05527), IEEE RO-MAN, 2023
+
+[Why Human-AI Relationships Need Socioaffective Alignment](https://arxiv.org/abs/2502.02528), arXiv, 2025
+
+[Mapping the Parasocial AI Market: User Trends, Engagement and Risks](https://arxiv.org/abs/2507.14226), arXiv, 2025
 
 # Benchmarks, Datasets, and Environments
 
@@ -426,6 +446,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 |`Social-IQ 2.0`| multimodal video qa | [ICCV 2023 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/) | [data + code](https://github.com/abwilf/Social-IQ-2.0-Challenge)
 |`Social Genome`| multimodal video qa, grounded social reasoning | [paper](https://arxiv.org/abs/2502.15109) | [webpage](https://cmu-multicomp-lab.github.io/social-genome/)
 |`MimeQA`| multimodal video qa, nonverbal social understanding| [paper](https://arxiv.org/abs/2502.16671) | [dataset](https://huggingface.co/datasets/hzli1202/MimeQA)
+|`MoMentS`| multimodal video qa, theory of mind | [paper](https://arxiv.org/abs/2507.04415) | [paper](https://arxiv.org/abs/2507.04415)
 | `MMToM-QA` | multimodal theory of mind | [paper](https://arxiv.org/abs/2401.08743) | [data + code](https://chuanyangjin.com/mmtom-qa)
 | `MuMA-ToM` | multimodal multi-agent theory of mind | [paper](https://arxiv.org/abs/2408.12574) | [data + code](https://scai.cs.jhu.edu/projects/MuMA-ToM/)
 |`Social-IQa`| text qa | [paper](https://arxiv.org/pdf/1904.09728.pdf) | [data + code](https://github.com/google/BIG-bench/blob/main/bigbench/benchmark_tasks/social_iqa/README.md)
@@ -473,7 +494,7 @@ Social-AI agents can be situated within interactions spanning social units, inte
 
 [Context-Based Visual Feedback Recognition](https://dspace.mit.edu/handle/1721.1/34893), 2006, [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
 
-[Vision-Based Multimodal Analysis of Affective Face and Upper-Body Behavior](https://opus.lib.uts.edu.au/handle/10453/52678)l 2007, [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/)
+[Vision-Based Multimodal Analysis of Affective Face and Upper-Body Behavior](https://opus.lib.uts.edu.au/handle/10453/52678), 2007, [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/)
 
 [Implicit and Automated Emotional Tagging of Videos](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ab8fb278db4405f7db08fa59404d9dd22d38bc83), 2011, [Mohammad Soleymani](https://people.ict.usc.edu/~soleymani/)
 
